@@ -1,0 +1,1505 @@
+atlas	provincia	id	poblacion	latitud	longitud	CCAA
+ADIM	Madrid	M1	Mangirón	40.9640834	-3.587009	Madrid
+ADIM	Madrid	M2	Buitrago de Lozoya	40.9872881	-3.646177	Madrid
+ADIM	Madrid	M3	Lozoya	40.9555018	-3.7992945	Madrid
+ADIM	Madrid	M4	Patones	40.8546382	-3.4893056	Madrid
+ADIM	Madrid	M5	Navacerrada	40.7264461	-4.0219211	Madrid
+ADIM	Madrid	M6	El Boalo	40.7172165	-3.9199126	Madrid
+ADIM	Madrid	M7	Alalpardo	40.6281985	-3.4807234	Madrid
+ADIM	Madrid	M8	Meco	40.5512194	-3.3380198	Madrid
+ADIM	Madrid	M9	Santa María de la Alameda	40.5978246	-4.2629201	Madrid
+ADIM	Madrid	M10	Valdemorillo	40.4864998	-4.0912238	Madrid
+ADIM	Madrid	M11	Robledo de Chavela	40.5019548	-4.2438566	Madrid
+ADIM	Madrid	M12	San Martín de Valdeiglesias	40.3646549	-4.4098873	Madrid
+ADIM	Madrid	M13	Carabaña	40.2577142	-3.2463598	Madrid
+ADIM	Madrid	M14	Cenicientos	40.2632617	-4.4704822	Madrid
+ADIM	Madrid	M15	Cubas de la Sagra	40.1933471	-3.8453605	Madrid
+ADIM	Madrid	M16	Colmenar de Oreja	40.1089848	-3.3934674	Madrid
+ALCLM	Albacete	AB103	La Roda	39.0013	-1.868604	Castilla La Mancha
+ALCLM	Albacete	AB206	Balsa de Ves	39.26442	-1.195344	Castilla La Mancha
+ALCLM	Albacete	AB207	Villamalea	39.36189	-1.599296	Castilla La Mancha
+ALCLM	Albacete	AB208	Alcalá del Júcar	39.19346	-1.429671	Castilla La Mancha
+ALCLM	Albacete	AB209	Navas de Jorquera	39.28074	-1.71904	Castilla La Mancha
+ALCLM	Albacete	AB210	Carcelén	39.10189	-1.308891	Castilla La Mancha
+ALCLM	Albacete	AB211	Motilleja	39.1806	-1.791874	Castilla La Mancha
+ALCLM	Albacete	AB213	Casas de Juan Núñez	39.10187	-1.557571	Castilla La Mancha
+ALCLM	Albacete	AB304	Albacete	38.99765	-1.86007	Castilla La Mancha
+ALCLM	Albacete	AB306	Balazote	38.88408	-2.150826	Castilla La Mancha
+ALCLM	Albacete	AB307	El Bonillo	38.95073	-2.539598	Castilla La Mancha
+ALCLM	Albacete	AB308	Masegoso	38.71841	-2.315899	Castilla La Mancha
+ALCLM	Albacete	AB309	Alcaraz	38.66966	-2.492647	Castilla La Mancha
+ALCLM	Albacete	AB310	Pozohondo	38.72114	-1.911805	Castilla La Mancha
+ALCLM	Albacete	AB311	Salobre	38.59158	-2.551266	Castilla La Mancha
+ALCLM	Albacete	AB312	Paterna del Madera	38.59725	-2.346145	Castilla La Mancha
+ALCLM	Albacete	AB404	Higueruela	38.96424	-1.445101	Castilla La Mancha
+ALCLM	Albacete	AB405	Chinchilla de Monte-Aragón	38.91862	-1.722758	Castilla La Mancha
+ALCLM	Albacete	AB406	Almansa	38.86941	-1.097517	Castilla La Mancha
+ALCLM	Albacete	AB407	Corral-Rubio	38.83509	-1.460988	Castilla La Mancha
+ALCLM	Albacete	AB409	Tobarra	38.58844	-1.693783	Castilla La Mancha
+ALCLM	Albacete	AB503	Molinicos	38.46796	-2.237843	Castilla La Mancha
+ALCLM	Albacete	AB504	Letur	38.36555	-2.101964	Castilla La Mancha
+ALCLM	Albacete	AB505	Villaverde de Guadalimar	38.4555	-2.517869	Castilla La Mancha
+ALCLM	Albacete	AB600	Hellín	38.51216	-1.70331	Castilla La Mancha
+ALCLM	Ciudad Real	CR101	Anchuras	39.48024	-4.835894	Castilla La Mancha
+ALCLM	Ciudad Real	CR102	Retuerta del Bullaque	39.4612	-4.409563	Castilla La Mancha
+ALCLM	Ciudad Real	CR103	Navalpino	39.22503	-4.591662	Castilla La Mancha
+ALCLM	Ciudad Real	CR104	Malagón	39.17159	-3.854879	Castilla La Mancha
+ALCLM	Ciudad Real	CR202	Tomelloso	39.15775	-3.020807	Castilla La Mancha
+ALCLM	Ciudad Real	CR203	Herencia	39.36691	-3.354991	Castilla La Mancha
+ALCLM	Ciudad Real	CR302	Ciudad Real	38.9861	-3.927263	Castilla La Mancha
+ALCLM	Ciudad Real	CR305	Luciana	38.98382	-4.292852	Castilla La Mancha
+ALCLM	Ciudad Real	CR306	Fernán Caballero	39.12474	-3.902586	Castilla La Mancha
+ALCLM	Ciudad Real	CR307	Agudo	38.97897	-4.873152	Castilla La Mancha
+ALCLM	Ciudad Real	CR308	Alcolea de Calatrava	38.98661	-4.115491	Castilla La Mancha
+ALCLM	Ciudad Real	CR309	Cabezarados	38.84591	-4.297102	Castilla La Mancha
+ALCLM	Ciudad Real	CR310	Pozuelo de Calatrava	38.91215	-3.837884	Castilla La Mancha
+ALCLM	Ciudad Real	CR405	Torralba de Calatrava	39.01635	-3.750029	Castilla La Mancha
+ALCLM	Ciudad Real	CR406	Membrilla	38.97219	-3.348246	Castilla La Mancha
+ALCLM	Ciudad Real	CR407	Moral de Calatrava	38.8303	-3.580616	Castilla La Mancha
+ALCLM	Ciudad Real	CR408	Villahermosa	38.75026	-2.871385	Castilla La Mancha
+ALCLM	Ciudad Real	CR503	Alamillo	38.67694	-4.789592	Castilla La Mancha
+ALCLM	Ciudad Real	CR504	Villamayor de Calatrava	38.78881	-4.138183	Castilla La Mancha
+ALCLM	Ciudad Real	CR505	Brazatortas	38.66077	-4.296044	Castilla La Mancha
+ALCLM	Ciudad Real	CR506	Aldea del Rey	38.73823	-3.839462	Castilla La Mancha
+ALCLM	Ciudad Real	CR507	Fuencaliente	38.40664	-4.304459	Castilla La Mancha
+ALCLM	Ciudad Real	CR508	Puertollano	38.68604	-4.112146	Castilla La Mancha
+ALCLM	Ciudad Real	CR509	Solana del Pino	38.46677	-4.072587	Castilla La Mancha
+ALCLM	Ciudad Real	CR510	Mestanza	38.57452	-4.071233	Castilla La Mancha
+ALCLM	Ciudad Real	CR605	Torrenueva	38.64016	-3.362127	Castilla La Mancha
+ALCLM	Ciudad Real	CR606	Villanueva de los Infantes	38.73712	-3.014678	Castilla La Mancha
+ALCLM	Ciudad Real	CR608	Montiel	38.69634	-2.862144	Castilla La Mancha
+ALCLM	Ciudad Real	CR610	Villamanrique	38.54818	-2.996742	Castilla La Mancha
+ALCLM	Ciudad Real	CR611	Almuradiel	38.51264	-3.49485	Castilla La Mancha
+ALCLM	Cuenca	CU104	Alcantud	40.54849	-2.332832	Castilla La Mancha
+ALCLM	Cuenca	CU105	Castejón	40.38228	-2.519847	Castilla La Mancha
+ALCLM	Cuenca	CU106	Cañaveras	40.35969	-2.398586	Castilla La Mancha
+ALCLM	Cuenca	CU107	Barajas de Melo	40.12273	-2.915822	Castilla La Mancha
+ALCLM	Cuenca	CU109	Huete	40.14595	-2.687307	Castilla La Mancha
+ALCLM	Cuenca	CU202	Masegosa	40.54752	-2.02547	Castilla La Mancha
+ALCLM	Cuenca	CU203	Arcos de la Sierra	40.3467	-2.112911	Castilla La Mancha
+ALCLM	Cuenca	CU204	Tragacete	40.3511	-1.849956	Castilla La Mancha
+ALCLM	Cuenca	CU205	Uña	40.22349	-1.979574	Castilla La Mancha
+ALCLM	Cuenca	CU206	Zafrilla	40.19435	-1.618136	Castilla La Mancha
+ALCLM	Cuenca	CU300	Cuenca	40.07183	-2.134005	Castilla La Mancha
+ALCLM	Cuenca	CU310	Abia de la Obispalía	40.01885	-2.39605	Castilla La Mancha
+ALCLM	Cuenca	CU311	Horcajo de Santiago	39.84166	-3.001539	Castilla La Mancha
+ALCLM	Cuenca	CU312	Zafra de Záncara	39.89165	-2.555295	Castilla La Mancha
+ALCLM	Cuenca	CU313	Saelices	39.91949	-2.803459	Castilla La Mancha
+ALCLM	Cuenca	CU314	Belmontejo	39.82042	-2.344961	Castilla La Mancha
+ALCLM	Cuenca	CU315	Hontanaya	39.71698	-2.833314	Castilla La Mancha
+ALCLM	Cuenca	CU405	Valdemorillo de la Sierra	40.03857	-1.779921	Castilla La Mancha
+ALCLM	Cuenca	CU406	Alcalá de la Vega	40.02644	-1.525031	Castilla La Mancha
+ALCLM	Cuenca	CU407	Reíllo	39.90438	-1.873556	Castilla La Mancha
+ALCLM	Cuenca	CU408	Moya	39.94834	-1.365402	Castilla La Mancha
+ALCLM	Cuenca	CU409	Cardenete	39.76665	-1.692981	Castilla La Mancha
+ALCLM	Cuenca	CU505	Mota del Cuervo	39.50294	-2.873104	Castilla La Mancha
+ALCLM	Cuenca	CU506	Buenache de Alarcón	39.65448	-2.160121	Castilla La Mancha
+ALCLM	Cuenca	CU507	Las Pedroñeras	39.4494	-2.680383	Castilla La Mancha
+ALCLM	Cuenca	CU508	San Clemente	39.40189	-2.424473	Castilla La Mancha
+ALCLM	Cuenca	CU604	Mira	39.71872	-1.43896	Castilla La Mancha
+ALCLM	Cuenca	CU605	Alarcón	39.54623	-2.083503	Castilla La Mancha
+ALCLM	Cuenca	CU606	Campillo de Altobuey	39.61043	-1.795945	Castilla La Mancha
+ALCLM	Cuenca	CU607	Casas de Benítez	39.36133	-2.130932	Castilla La Mancha
+ALCLM	Cuenca	CU608	Minglanilla	39.53357	-1.600453	Castilla La Mancha
+ALCLM	Cuenca	CU609	Villagarcía del Llano	39.32651	-1.846456	Castilla La Mancha
+ALCLM	Guadalajara	GU105	Miedes de Atienza	41.2667	-2.964246	Castilla La Mancha
+ALCLM	Guadalajara	GU106	Sienes	41.2002	-2.653532	Castilla La Mancha
+ALCLM	Guadalajara	GU107	Galve de Sorbe	41.22248	-3.183245	Castilla La Mancha
+ALCLM	Guadalajara	GU108	Sigüenza	41.0696	-2.642236	Castilla La Mancha
+ALCLM	Guadalajara	GU109	Bustares	41.13528	-3.072989	Castilla La Mancha
+ALCLM	Guadalajara	GU110	Alcolea del Pinar	41.03577	-2.467304	Castilla La Mancha
+ALCLM	Guadalajara	GU111	Robledo de Corpes	41.11815	-2.950481	Castilla La Mancha
+ALCLM	Guadalajara	GU112	Matillas	40.95211	-2.842353	Castilla La Mancha
+ALCLM	Guadalajara	GU113	La Toba	41.00427	-2.981962	Castilla La Mancha
+ALCLM	Guadalajara	GU203	Villel de Mesa	41.12617	-1.989027	Castilla La Mancha
+ALCLM	Guadalajara	GU204	La Yunta	40.91481	-1.683895	Castilla La Mancha
+ALCLM	Guadalajara	GU205	Maranchón	41.04764	-2.20504	Castilla La Mancha
+ALCLM	Guadalajara	GU308	Guadalajara	40.62981	-3.166493	Castilla La Mancha
+ALCLM	Guadalajara	GU309	Cogolludo	40.94699	-3.088776	Castilla La Mancha
+ALCLM	Guadalajara	GU310	Abádanes	40.893889	-2.483889	Castilla La Mancha
+ALCLM	Guadalajara	GU311	Valdepeñas de la Sierra	40.90821	-3.387443	Castilla La Mancha
+ALCLM	Guadalajara	GU312	Ledanca	40.86851	-2.843731	Castilla La Mancha
+ALCLM	Guadalajara	GU313	Humanes	40.82745	-3.155397	Castilla La Mancha
+ALCLM	Guadalajara	GU314	Brihuega	40.75965	-2.870508	Castilla La Mancha
+ALCLM	Guadalajara	GU315	Casar de Talamanca	40.703333	-3.426389	Castilla La Mancha
+ALCLM	Guadalajara	GU316	Trillo	40.70134	-2.593588	Castilla La Mancha
+ALCLM	Guadalajara	GU317	Azuqueca de Henares	40.56503	-3.268549	Castilla La Mancha
+ALCLM	Guadalajara	GU318	Peñalver	40.57995	-2.888909	Castilla La Mancha
+ALCLM	Guadalajara	GU401	Molina de Aragón	40.84282	-1.882801	Castilla La Mancha
+ALCLM	Guadalajara	GU407	Villanueva de Alcorón	40.67927	-2.252745	Castilla La Mancha
+ALCLM	Guadalajara	GU408	Tordellego	40.72094	-1.669642	Castilla La Mancha
+ALCLM	Guadalajara	GU410	Checa	40.58671	-1.789798	Castilla La Mancha
+ALCLM	Guadalajara	GU505	Loranca de Tajuña	40.4469	-3.113948	Castilla La Mancha
+ALCLM	Guadalajara	GU506	Auñón	40.51687	-2.791876	Castilla La Mancha
+ALCLM	Guadalajara	GU507	Mondéjar	40.32302	-3.115048	Castilla La Mancha
+ALCLM	Guadalajara	GU508	Alcocer	40.46987	-2.610925	Castilla La Mancha
+ALCLM	Guadalajara	GU509	Pastrana	40.41794	-2.922605	Castilla La Mancha
+ALCLM	Guadalajara	GU510	Albalate de Zorita	40.3085	-2.841589	Castilla La Mancha
+ALCLM	Toledo	TO100	La Iglesuela	40.23342	-4.750336	Castilla La Mancha
+ALCLM	Toledo	TO103	Buenaventura	40.17628	-4.849428	Castilla La Mancha
+ALCLM	Toledo	TO104	Almorox	40.23307	-4.391364	Castilla La Mancha
+ALCLM	Toledo	TO105	Castillo de Bayuela	40.10114	-4.685131	Castilla La Mancha
+ALCLM	Toledo	TO106	Nombela	40.15645	-4.502765	Castilla La Mancha
+ALCLM	Toledo	TO107	Oropesa	39.91914	-5.173415	Castilla La Mancha
+ALCLM	Toledo	TO108	Portillo de Toledo	40.0639	-4.229168	Castilla La Mancha
+ALCLM	Toledo	TO109	Calzada de Oropesa	39.898056	-5.278611	Castilla La Mancha
+ALCLM	Toledo	TO110	Santa Olalla	40.02426	-4.428266	Castilla La Mancha
+ALCLM	Toledo	TO112	Santo Domingo-Caudilla	40.012	-4.326	Castilla La Mancha
+ALCLM	Toledo	TO113	Mejorada	40.01009	-4.881894	Castilla La Mancha
+ALCLM	Toledo	TO114	Villamiel de Toledo	39.98216	-4.126972	Castilla La Mancha
+ALCLM	Toledo	TO201	Carranque	40.1697	-3.901091	Castilla La Mancha
+ALCLM	Toledo	TO202	Seseña	40.10443	-3.697418	Castilla La Mancha
+ALCLM	Toledo	TO203	Méntrida	40.23759	-4.190963	Castilla La Mancha
+ALCLM	Toledo	To301	Talavera de la Reina	39.9598	-4.834432	Castilla La Mancha
+ALCLM	Toledo	TO307	Valdeverdeja	39.79899	-5.246643	Castilla La Mancha
+ALCLM	Toledo	TO308	Cebolla	39.9479	-4.569388	Castilla La Mancha
+ALCLM	Toledo	TO309	Navalmoralejo	39.73903	-5.142811	Castilla La Mancha
+ALCLM	Toledo	TO310	El Carpio de Tajo	39.88752	-4.45466	Castilla La Mancha
+ALCLM	Toledo	TO311	Belvís de la Jara	39.76008	-4.949282	Castilla La Mancha
+ALCLM	Toledo	TO312	Polán	39.78912	-4.1682	Castilla La Mancha
+ALCLM	Toledo	TO407	Toledo	39.85678	-4.024476	Castilla La Mancha
+ALCLM	Toledo	TO408	Villarrubia de Santiago	39.98702	-3.368908	Castilla La Mancha
+ALCLM	Toledo	TO409	Cedillo del Condado	40.1137	-3.922378	Castilla La Mancha
+ALCLM	Toledo	TO410	Ocaña	39.96031	-3.499733	Castilla La Mancha
+ALCLM	Toledo	TO411	Yunclillos	40.02176	-3.990554	Castilla La Mancha
+ALCLM	Toledo	TO412	Yepes	39.90262	-3.622163	Castilla La Mancha
+ALCLM	Toledo	TO413	Cobeja	40.02474	-3.857	Castilla La Mancha
+ALCLM	Toledo	TO414	Cabañas de Yepes	39.88974	-3.53536	Castilla La Mancha
+ALCLM	Toledo	TO415	Añover de Tajo	39.98945	-3.764771	Castilla La Mancha
+ALCLM	Toledo	TO502	Navahermosa	39.63567	-4.469614	Castilla La Mancha
+ALCLM	Toledo	TO503	Mohedas de la Jara	39.60504	-5.143276	Castilla La Mancha
+ALCLM	Toledo	TO504	Cuerva	39.66404	-4.211058	Castilla La Mancha
+ALCLM	Toledo	TO505	Sevilleja de la Jara	39.57607	-4.962416	Castilla La Mancha
+ALCLM	Toledo	TO507	Los Navalucillos	39.666	-4.642211	Castilla La Mancha
+ALCLM	Toledo	TO605	Mazarambroz	39.69421	-4.021279	Castilla La Mancha
+ALCLM	Toledo	TO606	Quintanar de la Orden	39.59079	-3.042736	Castilla La Mancha
+ALCLM	Toledo	TO607	Mora	39.68426	-3.773487	Castilla La Mancha
+ALCLM	Toledo	TO608	Villacañas	39.62555	-3.331701	Castilla La Mancha
+ALCLM	Toledo	TO609	Los Yébenes	39.58142	-3.870618	Castilla La Mancha
+ALCLM	Toledo	TO610	Camuñas	39.42896	-3.459021	Castilla La Mancha
+ALCYL	Ávila	AV100	Madrigal de las Altas Torres	41.08944	-4.998767	Castilla León
+ALCYL	Ávila	AV101	Cantiveros	40.9527	-4.954445	Castilla León
+ALCYL	Ávila	AV200	Nava de Arévalo	40.97843	-4.775988	Castilla León
+ALCYL	Ávila	AV201	Blascosancho	40.877778	-4.635833	Castilla León
+ALCYL	Ávila	AV202	Zorita de los Molinos	40.768611	-4.699167	Castilla León
+ALCYL	Ávila	AV300	Muñico	40.70657	-5.026659	Castilla León
+ALCYL	Ávila	AV301	Pascualcobo	40.65711	-5.276952	Castilla León
+ALCYL	Ávila	AV302	El Mirón	40.53179	-5.405205	Castilla León
+ALCYL	Ávila	AV400	Aveinte	40.78237	-4.837343	Castilla León
+ALCYL	Ávila	AV401	Ávila	40.65642	-4.700323	Castilla León
+ALCYL	Ávila	AV402	Navalperal de Pinares	40.59454	-4.410842	Castilla León
+ALCYL	Ávila	AV403	Muñogalindo	40.6028	-4.900547	Castilla León
+ALCYL	Ávila	AV500	Garganta del Villar	40.45007	-5.105528	Castilla León
+ALCYL	Ávila	AV501	Navacepeda de Tormes	40.361389	-5.248611	Castilla León
+ALCYL	Ávila	AV502	Bohoyo	40.31496	-5.441185	Castilla León
+ALCYL	Ávila	AV503	Candeleda	40.15509	-5.239784	Castilla León
+ALCYL	Ávila	AV600	San Juan de la Nava	40.47903	-4.682141	Castilla León
+ALCYL	Ávila	AV601	El Tiemblo	40.41628	-4.503831	Castilla León
+ALCYL	Ávila	AV602	Hoyocasero	40.39886	-4.975904	Castilla León
+ALCYL	Ávila	AV603	Piedralaves	40.31736	-4.69809	Castilla León
+ALCYL	Ávila	AV604	Lanzahíta	40.203889	-4.937222	Castilla León
+ALCYL	Burgos	BU100	Cornejo	43.028646	-3.626408	Castilla León
+ALCYL	Burgos	BU101	Santa Gadea del Cid	42.714722	-3.058889	Castilla León
+ALCYL	Burgos	BU102	Sargentes de la Lora	42.769167	-3.872778	Castilla León
+ALCYL	Burgos	BU103	Humada	42.66822	-4.083444	Castilla León
+ALCYL	Burgos	BU200	Villasana de Mena	43.100214	-3.291833	Castilla León
+ALCYL	Burgos	BU201	Berberana	42.91988	-3.060073	Castilla León
+ALCYL	Burgos	BU202	Aforados de Moneo	42.894064	-3.465833	Castilla León
+ALCYL	Burgos	BU203	Barcina de los Montes	42.713611	-3.325	Castilla León
+ALCYL	Burgos	BU300	Villanueva de Puerta	42.593417	-3.963417	Castilla León
+ALCYL	Burgos	BU301	Ros	42.484444	-3.809167	Castilla León
+ALCYL	Burgos	BU302	Melgar de Fernamental	42.40352	-4.244519	Castilla León
+ALCYL	Burgos	BU304	Burgos	42.34087	-3.699731	Castilla León
+ALCYL	Burgos	BU305	Mazuelo de Muñó	42.239167	-3.846111	Castilla León
+ALCYL	Burgos	BU306	Revilla Vallejera	42.14722	-4.134238	Castilla León
+ALCYL	Burgos	BU400	Treviño	42.734722	-2.747222	Castilla León
+ALCYL	Burgos	BU401	Pancorbo	42.63524	-3.110586	Castilla León
+ALCYL	Burgos	BU402	Quintanilla-Sobresierra	42.571944	-3.713333	Castilla León
+ALCYL	Burgos	BU403	Redecilla del Camino	42.43816	-3.065058	Castilla León
+ALCYL	Burgos	BU404	Villanasur Río de Oca	42.436653	-3.320403	Castilla León
+ALCYL	Burgos	BU405	Villasur de Herreros	42.30821	-3.395027	Castilla León
+ALCYL	Burgos	BU500	Villahoz	42.07693	-3.912524	Castilla León
+ALCYL	Burgos	BU501	Villafruela	41.91651	-3.913288	Castilla León
+ALCYL	Burgos	BU502	Quintana del Pidio	41.7596	-3.751569	Castilla León
+ALCYL	Burgos	BU503	Valcavado de Roa	41.75	-3.95	Castilla León
+ALCYL	Burgos	BU504	Fuentelcésped	41.59122	-3.640737	Castilla León
+ALCYL	Burgos	BU505	Moradillo de Roa	41.55196	-3.791871	Castilla León
+ALCYL	Burgos	BU600	Regumiel	41.955833	-2.987778	Castilla León
+ALCYL	Burgos	BU601	Retuerta	42.02995	-3.507748	Castilla León
+ALCYL	Burgos	BU602	Pinilla	42.067778	-3.327222	Castilla León
+ALCYL	Burgos	BU603	Hontoria del Pinar	41.8486	-3.162302	Castilla León
+ALCYL	Burgos	BU604	Santa María del Mercadillo	41.85995	-3.559022	Castilla León
+ALCYL	Burgos	BU605	Huerta del Rey	41.840122	-3.348047	Castilla León
+ALCYL	León	LE100	San Emiliano	42.97181	-6.000573	Castilla León
+ALCYL	León	LE101	Palacios del Sil	42.87659	-6.433007	Castilla León
+ALCYL	León	LE200	Soto de Sajambre	43.162778	-5.035556	Castilla León
+ALCYL	León	LE201	Lillo del Bierzo	42.785	-6.609722	Castilla León
+ALCYL	León	LE202	Vozmediano	41.83922	-1.855912	Castilla León
+ALCYL	León	LE203	Garfín	42.677731	-5.2457	Castilla León
+ALCYL	León	LE301	Igüeña	42.72905	-6.27664	Castilla León
+ALCYL	León	LE302	La Utrera	42.708867	-5.917983	Castilla León
+ALCYL	León	LE303	Berlanga	42.731111	-6.604167	Castilla León
+ALCYL	León	LE303	Peranzanes	42.87678	-6.634321	Castilla León
+ALCYL	León	LE304	Villagatón	42.6349	-6.162189	Castilla León
+ALCYL	León	LE305	Ponferrada	42.54633	-6.590833	Castilla León
+ALCYL	León	LE306	Oencia	42.54644	-6.97065	Castilla León
+ALCYL	León	LE307	Carracedo del Monasterio	42.571389	-6.728056	Castilla León
+ALCYL	León	LE400	La Vecilla	42.84916	-5.405795	Castilla León
+ALCYL	León	LE401	Prioro	42.89439	-4.961933	Castilla León
+ALCYL	León	LE402	León	42.59988	-5.571752	Castilla León
+ALCYL	León	LE403	Castromudarra	42.612222	-5.062222	Castilla León
+ALCYL	León	LE500	Tabuyo del Monte	42.312778	-6.203333	Castilla León
+ALCYL	León	LE501	Encinedo	42.27103	-6.594176	Castilla León
+ALCYL	León	LE502	Castrocontrigo	42.183	-6.188392	Castilla León
+ALCYL	León	LE601	San Cristóbal de la Polantera	42.39127	-5.908829	Castilla León
+ALCYL	León	LE602	Valdepolo	42.57626	-5.22613	Castilla León
+ALCYL	León	LE603	Pobladura de Pelayo García	42.306111	-5.685556	Castilla León
+ALCYL	León	LE604	Valencia de Don Juan	42.29401	-5.519861	Castilla León
+ALCYL	León	LE605	Izagre	42.22424	-5.257293	Castilla León
+ALCYL	León	LE606	Alija del Infantado	42.14053	-5.835635	Castilla León
+ALCYL	Palencia	P100	Lores	42.996389	-4.530278	Castilla León
+ALCYL	Palencia	P101	Otero de Guardo	42.879444	-4.807778	Castilla León
+ALCYL	Palencia	P102	Congosto de Valdavia	42.71569	-4.633691	Castilla León
+ALCYL	Palencia	P103	Villalba de Guardo	42.72227	-4.823821	Castilla León
+ALCYL	Palencia	P200	Pomar de Valdivia	42.77392	-4.169625	Castilla León
+ALCYL	Palencia	P201	Olmos de Ojeda	42.72211	-4.42506	Castilla León
+ALCYL	Palencia	P300	Saldaña	42.52224	-4.736195	Castilla León
+ALCYL	Palencia	P301	Carrión de los Condes	42.33895	-4.601765	Castilla León
+ALCYL	Palencia	P400	San Cristóbal de Boedo	42.54183	-4.353204	Castilla León
+ALCYL	Palencia	P401	Osornillo	42.37003	-4.291184	Castilla León
+ALCYL	Palencia	P402	Piña de Campos	42.21383	-4.437123	Castilla León
+ALCYL	Palencia	P500	Boadilla de Rioseco	42.17916	-4.968832	Castilla León
+ALCYL	Palencia	P501	Paredes de Nava	42.152778	-4.694444	Castilla León
+ALCYL	Palencia	P502	Monzón de Campos	42.11494	-4.494374	Castilla León
+ALCYL	Palencia	P503	Meneses de Campos	41.94185	-4.920037	Castilla León
+ALCYL	Palencia	P504	Dueñas	41.8762	-4.545815	Castilla León
+ALCYL	Palencia	P600	Valbuena de Pisuerga	42.14552	-4.239007	Castilla León
+ALCYL	Palencia	P601	Palencia	42.01246	-4.531175	Castilla León
+ALCYL	Palencia	P602	Cobos de Cerrato	42.02774	-4.0022	Castilla León
+ALCYL	Palencia	P603	Baltanás	41.93716	-4.245831	Castilla León
+ALCYL	Palencia	P604	Alba de Cerrato	41.81252	-4.366223	Castilla León
+ALCYL	Salamanca	SA100	La Vídola	41.153333	-6.487778	Castilla León
+ALCYL	Salamanca	SA101	Villaseco de los Reyes	41.16262	-6.184583	Castilla León
+ALCYL	Salamanca	SA102	Vilvestre	41.10301	-6.718517	Castilla León
+ALCYL	Salamanca	SA103	Cipérez	40.96274	-6.263782	Castilla León
+ALCYL	Salamanca	SA200	Palacios del Arzobispo	41.16558	-5.890038	Castilla León
+ALCYL	Salamanca	SA201	Tarazona de Guareña	41.170833	-5.249722	Castilla León
+ALCYL	Salamanca	SA202	Villaverde de Guareña	41.0639	-5.526249	Castilla León
+ALCYL	Salamanca	SA203	Rollán	40.96346	-5.915601	Castilla León
+ALCYL	Salamanca	SA204	Salamanca	40.96497	-5.663047	Castilla León
+ALCYL	Salamanca	SA205	Aldeaseca de la Frontera	40.94177	-5.207658	Castilla León
+ALCYL	Salamanca	SA300	Ahigal de los Aceiteros	40.87508	-6.747851	Castilla León
+ALCYL	Salamanca	SA301	Villavieja de Yeltes	40.87605	-6.46762	Castilla León
+ALCYL	Salamanca	SA401	Carrascal del Obispo	40.76361	-5.999232	Castilla León
+ALCYL	Salamanca	SA402	Pedrosillo de los Aires	40.71452	-5.705029	Castilla León
+ALCYL	Salamanca	SA500	La Alameda de Gardón	40.650833	-6.758611	Castilla León
+ALCYL	Salamanca	SA501	Serradilla del Llano	40.50063	-6.355768	Castilla León
+ALCYL	Salamanca	SA502	Navasfrías	40.29641	-6.820108	Castilla León
+ALCYL	Salamanca	SA503	El Sahugo	40.414167	-6.544167	Castilla León
+ALCYL	Salamanca	SA600	Linares de Riofrío	40.58448	-5.921306	Castilla León
+ALCYL	Salamanca	SA601	Santibáñez de Béjar	40.4876	-5.611373	Castilla León
+ALCYL	Salamanca	SA602	Herguijuela de la Sierra	40.44622	-6.072958	Castilla León
+ALCYL	Segovia	SG100	Cuéllar	41.40251	-4.316654	Castilla León
+ALCYL	Segovia	SG200	Montejo de la Vega de la Serrazuela	41.548056	-3.6525	Castilla León
+ALCYL	Segovia	SG201	Fuentesoto	41.45682	-3.919893	Castilla León
+ALCYL	Segovia	SG202	Languilla	41.4491	-3.424838	Castilla León
+ALCYL	Segovia	SG203	Navares de las Cuevas	41.41401	-3.750781	Castilla León
+ALCYL	Segovia	SG204	Grado del Pico	41.303611	-3.248889	Castilla León
+ALCYL	Segovia	SG205	Sepúlveda	41.29744	-3.749051	Castilla León
+ALCYL	Segovia	SG300	Coca	41.21833	-4.519117	Castilla León
+ALCYL	Segovia	SG301	Navalmanzano	41.21515	-4.258042	Castilla León
+ALCYL	Segovia	SG302	Carbonero el Mayor	41.1225	-4.266111	Castilla León
+ALCYL	Segovia	SG303	San Cristóbal de la Vega	41.11186	-4.645412	Castilla León
+ALCYL	Segovia	SG304	Laguna Rodrigo	40.979444	-4.46	Castilla León
+ALCYL	Segovia	SG400	Riaza	41.28003	-3.477578	Castilla León
+ALCYL	Segovia	SG401	Cantalejo	41.25864	-3.9281	Castilla León
+ALCYL	Segovia	SG402	Arevalillo de Cega	41.16163	-3.890747	Castilla León
+ALCYL	Segovia	SG403	Pradenilla	41.1618132	-3.6860269	Castilla León
+ALCYL	Segovia	SG404	La Mata (Santiuste de Pedraza)	41.090556	-3.886389	Castilla León
+ALCYL	Segovia	SG500	Segovia	40.94943	-4.119209	Castilla León
+ALCYL	Segovia	SG501	Revenga	40.8717924	-4.1076004	Castilla León
+ALCYL	Segovia	SG502	El Espinar	40.718611	-4.247778	Castilla León
+ALCYL	Soria	SO100	Montenegro de Cameros	42.08982	-2.753905	Castilla León
+ALCYL	Soria	SO101	Salduero	41.89009	-2.7993	Castilla León
+ALCYL	Soria	SO102	Casarejos	41.79644	-3.032538	Castilla León
+ALCYL	Soria	SO200	Yanguas	42.10143	-2.339636	Castilla León
+ALCYL	Soria	SO201	Matasejún	41.988189	-2.2343108	Castilla León
+ALCYL	Soria	SO202	Ágreda	41.85508	-1.920437	Castilla León
+ALCYL	Soria	SO203	Cortos	41.810994	-2.259592	Castilla León
+ALCYL	Soria	SO300	Alcubilla de Avellaneda	41.72509	-3.30504	Castilla León
+ALCYL	Soria	SO301	Blacos	41.68061	-2.856914	Castilla León
+ALCYL	Soria	SO302	Burgo de Osma	41.586667	-3.067222	Castilla León
+ALCYL	Soria	SO303	Castillejo de Robledo	41.56111	-3.494669	Castilla León
+ALCYL	Soria	SO400	Soria	41.7636	-2.464921	Castilla León
+ALCYL	Soria	SO401	Castejón del Campo	41.690556	-2.145278	Castilla León
+ALCYL	Soria	SO402	Borobia	41.664722	-1.896667	Castilla León
+ALCYL	Soria	SO403	Tardelcuende	41.593611	-2.644444	Castilla León
+ALCYL	Soria	SO404	Serón de Nágima	41.495556	-2.201389	Castilla León
+ALCYL	Soria	SO405	Almazán	41.48592	-2.533437	Castilla León
+ALCYL	Soria	SO500	Ciruela	41.442222	-2.819444	Castilla León
+ALCYL	Soria	SO501	Liceras	41.37885	-3.243724	Castilla León
+ALCYL	Soria	SO502	Torrevicente	41.335278	-2.941389	Castilla León
+ALCYL	Soria	SO600	Cihuela	41.40725	-1.99981	Castilla León
+ALCYL	Soria	SO601	Chércoles	41.371111	-2.3	Castilla León
+ALCYL	Soria	SO602	Torremediana	41.374716	-2.674888	Castilla León
+ALCYL	Soria	SO603	Baraona	41.295278	-2.657222	Castilla León
+ALCYL	Soria	SO604	Almaluez	41.28933	-2.26941	Castilla León
+ALCYL	Soria	SO605	Medinaceli	41.17257	-2.433086	Castilla León
+ALCYL	Soria	SO606	Iruecha	41.108611	-2.091944	Castilla León
+ALCYL	Valladolid	VA100	Santervás de Campos	42.21807	-5.101006	Castilla León
+ALCYL	Valladolid	VA101	Castrobol	42.131812	-5.2744891	Castilla León
+ALCYL	Valladolid	VA102	Gatón de Campos	42.04918	-4.980626	Castilla León
+ALCYL	Valladolid	VA103	Villafrechós	41.89216	-5.218182	Castilla León
+ALCYL	Valladolid	VA300	Villalba de Alcores	41.863333	-4.859167	Castilla León
+ALCYL	Valladolid	VA301	Peñaflor de Hornija	41.71133	-4.982425	Castilla León
+ALCYL	Valladolid	VA302	Valladolid	41.65295	-4.728388	Castilla León
+ALCYL	Valladolid	VA303	Mota del Marqués	41.63143	-5.175766	Castilla León
+ALCYL	Valladolid	VA304	San Román de Hornija	41.48179	-5.282981	Castilla León
+ALCYL	Valladolid	VA400	Valoria la Buena	41.79931	-4.53069	Castilla León
+ALCYL	Valladolid	VA401	Fombellida	41.7668	-4.184987	Castilla León
+ALCYL	Valladolid	VA402	Castrillo-Tejeriego	41.703056	-4.371111	Castilla León
+ALCYL	Valladolid	VA403	Castrillo de Duero	41.57559	-4.014312	Castilla León
+ALCYL	Valladolid	VA404	Cogeces del Montes	41.511111	-4.316111	Castilla León
+ALCYL	Valladolid	VA500	Serrada	41.4593	-4.861142	Castilla León
+ALCYL	Valladolid	VA501	Nava del Rey	41.33257	-5.079111	Castilla León
+ALCYL	Valladolid	VA600	Ataquines	41.18281	-4.802578	Castilla León
+ALCYL	Zamora	ZA100	San Martín de Castañeda	42.135278	-6.720278	Castilla León
+ALCYL	Zamora	ZA101	Espadañedo	42.11662	-6.394867	Castilla León
+ALCYL	Zamora	ZA102	Porto	42.16727	-6.899445	Castilla León
+ALCYL	Zamora	ZA103	Hermisende	41.96882	-6.896557	Castilla León
+ALCYL	Zamora	ZA104	Folgoso de Carballeda	41.957694	-6.435361	Castilla León
+ALCYL	Zamora	ZA200	Brime de Sog	42.06126	-6.047415	Castilla León
+ALCYL	Zamora	ZA201	Villabrázaro	42.05366	-5.727928	Castilla León
+ALCYL	Zamora	ZA202	Cerecinos de Campos	41.90046	-5.486743	Castilla León
+ALCYL	Zamora	ZA300	Serracín de Aliste	41.8441	-6.1902	Castilla León
+ALCYL	Zamora	ZA301	San Martín del Pedroso	41.730197	-6.554933	Castilla León
+ALCYL	Zamora	ZA302	Ceadea	41.691067	-6.277439	Castilla León
+ALCYL	Zamora	ZA400	Belver de los Montes	41.72264	-5.450851	Castilla León
+ALCYL	Zamora	ZA401	Pozuelo de Tábara	41.78445	-5.896112	Castilla León
+ALCYL	Zamora	ZA402	Andavías	41.59714	-5.861349	Castilla León
+ALCYL	Zamora	ZA403	Matilla la Seca	41.57957	-5.500398	Castilla León
+ALCYL	Zamora	ZA404	Villardiegua de la Ribera	41.53771	-6.178452	Castilla León
+ALCYL	Zamora	ZA405	Zamora	41.50368	-5.743778	Castilla León
+ALCYL	Zamora	ZA500	Fermoselle	41.31866	-6.39788	Castilla León
+ALCYL	Zamora	ZA600	Venialbo	41.38918	-5.536571	Castilla León
+ALCYL	Zamora	ZA601	Torrefrades	41.346589	-6.054603	Castilla León
+ALCYL	Zamora	ZA602	Vadillo de la Guareña	41.28332	-5.354189	Castilla León
+ALCYL	Zamora	ZA603	El Cubo de la Tierra del Vino	41.255	-5.710833	Castilla León
+ALEA	Almería	AL100	Lúcar	37.40081642	-2.42494356	Andalucía
+ALEA	Almería	AL200	Topares	37.861389	-2.229444	Andalucía
+ALEA	Almería	AL201	Vélez-Rubio	37.64799415	-2.07415558	Andalucía
+ALEA	Almería	AL202	El Contador	37.589901	-2.363035	Andalucía
+ALEA	Almería	AL203	Oria	37.48360163	-2.29602131	Andalucía
+ALEA	Almería	AL204	La Perulera	37.4391173	-2.1594026	Andalucía
+ALEA	Almería	AL205	Pulpí	37.41211031	-1.745159	Andalucía
+ALEA	Almería	AL300	Alcóntar	37.33611796	-2.59756879	Andalucía
+ALEA	Almería	AL301	Bacares	37.26120059	-2.45318749	Andalucía
+ALEA	Almería	AL302	Gérgal	37.12083904	-2.53905331	Andalucía
+ALEA	Almería	AL303	Abla	37.1412099	-2.77953953	Andalucía
+ALEA	Almería	AL400	Cantoria	37.35219371	-2.19324978	Andalucía
+ALEA	Almería	AL401	Tahal	37.22770702	-2.28473564	Andalucía
+ALEA	Almería	AL402	Vera	37.24675325	-1.86877507	Andalucía
+ALEA	Almería	AL403	Lubrín	37.21648353	-2.06592032	Andalucía
+ALEA	Almería	AL404	Palomares	37.2393182	-1.8178814	Andalucía
+ALEA	Almería	AL405	Gafarillos	37.0571045	-2.0226213	Andalucía
+ALEA	Almería	AL500	Tabernas	37.04984427	-2.39150625	Andalucía
+ALEA	Almería	AL501	Alboloduy	37.03339629	-2.62168571	Andalucía
+ALEA	Almería	AL502	Ohanes	37.03829786	-2.74552024	Andalucía
+ALEA	Almería	AL503	Paterna del Río	37.02162718	-2.95313089	Andalucía
+ALEA	Almería	AL504	Alcolea	36.97361957	-2.96066637	Andalucía
+ALEA	Almería	AL505	Benahadux	36.925792	-2.455766	Andalucía
+ALEA	Almería	AL506	Felix	36.8695477	-2.6594144	Andalucía
+ALEA	Almería	AL507	Berja	36.84732147	-2.94948207	Andalucía
+ALEA	Almería	AL508	Almería	36.83892362	-2.46413188	Andalucía
+ALEA	Almería	AL509	Belarma	36.7312507	-2.89296	Andalucía
+ALEA	Almería	AL600	Carboneras	36.99742391	-1.89349648	Andalucía
+ALEA	Almería	AL601	Níjar	36.96577831	-2.206606998	Andalucía
+ALEA	Almería	AL602	San José	36.7599157	-2.11569	Andalucía
+ALEA	Cádiz	CA100	Trebujena	36.86924138	-6.17660584	Andalucía
+ALEA	Cádiz	CA101	Chipiona	36.73790677	-6.44220215	Andalucía
+ALEA	Cádiz	CA102	Jerez de la Frontera	36.70212746	-6.1287534	Andalucía
+ALEA	Cádiz	CA200	Puerto Serrano	36.92280153	-5.54691548	Andalucía
+ALEA	Cádiz	CA201	Prado del Rey	36.78745433	-5.55753213	Andalucía
+ALEA	Cádiz	CA202	Setenil de las Bogedas	36.8629293	-5.1811477	Andalucía
+ALEA	Cádiz	CA203	Arcos de la Frontera	36.74821011	-5.80640518	Andalucía
+ALEA	Cádiz	CA204	Benaocaz	36.70017696	-5.42145094	Andalucía
+ALEA	Cádiz	CA205	Algar	36.65594556	-5.65719916	Andalucía
+ALEA	Cádiz	CA300	Cádiz	36.52171152	-6.28414575	Andalucía
+ALEA	Cádiz	CA301	Paterna de Rivera	36.52313758	-5.86591723	Andalucía
+ALEA	Cádiz	CA302	Benalup de Sidonia	36.3456961	-5.8316362	Andalucía
+ALEA	Cádiz	CA400	Jimena de la Frontera	36.43225697	-5.45548727	Andalucía
+ALEA	Cádiz	CA500	Vejer de la Frontera	36.2529047	-5.97136125	Andalucía
+ALEA	Cádiz	CA600	Castellar de la Frontera	36.2864973	-5.4215008	Andalucía
+ALEA	Cádiz	CA601	Facinas	36.1437034	-5.7058326	Andalucía
+ALEA	Cádiz	CA602	Algeciras	36.13137811	-5.44774178	Andalucía
+ALEA	Córdoba	CO100	Santa Eufemia	38.5962425	-4.9055393	Andalucía
+ALEA	Córdoba	CO101	Valsequillo	38.4076354	-5.3538371	Andalucía
+ALEA	Córdoba	CO102	Villanueva del Duque	38.3944641	-5.0029562	Andalucía
+ALEA	Córdoba	CO103	Cuenca	38.3224716	-5.5605033	Andalucía
+ALEA	Córdoba	CO104	Belmez	38.2709438	-5.2130372	Andalucía
+ALEA	Córdoba	CO200	Torrecampo	38.4737654	-4.6808144	Andalucía
+ALEA	Córdoba	CO201	Conquista	38.4087126	-4.5036458	Andalucía
+ALEA	Córdoba	CO202	Villanueva de Córdoba	38.3215304	-4.6314147	Andalucía
+ALEA	Córdoba	CO300	Villaharta	38.138414	-4.904978	Andalucía
+ALEA	Córdoba	CO301	Almodóvar del Río	37.8136492	-5.0223202	Andalucía
+ALEA	Córdoba	CO302	Palma del Río	37.7019376	-5.2872707	Andalucía
+ALEA	Córdoba	CO400	Venta del Charco	38.204395	-4.2807671	Andalucía
+ALEA	Córdoba	CO401	Montoro	38.0194336	-4.3908233	Andalucía
+ALEA	Córdoba	CO402	Córdoba	37.8915392	-4.8195905	Andalucía
+ALEA	Córdoba	CO403	Cañete de las Torres	37.8671217	-4.3233462	Andalucía
+ALEA	Córdoba	CO600	Espejo	37.6802424	-4.5583013	Andalucía
+ALEA	Córdoba	CO601	San Sebastián de los Ballesteros	37.6534129	-4.8255008	Andalucía
+ALEA	Córdoba	CO602	Baena	37.6175142	-4.3268359	Andalucía
+ALEA	Córdoba	CO603	Montalbán de Córdoba	37.5795267	-4.7534767	Andalucía
+ALEA	Córdoba	CO604	Nueva Carteya	37.5850945	-4.4731633	Andalucía
+ALEA	Córdoba	CO605	Castil de Campos	37.4911624	-4.1455658	Andalucía
+ALEA	Córdoba	CO606	Monturque	37.4714161	-4.583608	Andalucía
+ALEA	Córdoba	CO607	Lucena	37.4148913	-4.4965363	Andalucía
+ALEA	Córdoba	CO608	Jauja	37.3031314	-4.6577889	Andalucía
+ALEA	Córdoba	CO609	Iznájar	37.257224	-4.3115896	Andalucía
+ALEA	Granada	GR200	Puebla de don Fadrique	37.9580728	-2.4443462	Andalucía
+ALEA	Granada	GR201	Huéscar	37.80977052	-2.54009537	Andalucía
+ALEA	Granada	GR202	Castril de la Peña	37.7956879	-2.7828548	Andalucía
+ALEA	Granada	GR203	Algerineja	37.7433215	-2.55073185	Andalucía
+ALEA	Granada	GR203	Galera	37.7433215	-2.55073185	Andalucía
+ALEA	Granada	GR300	Montejícar	37.57189363	-3.50494602	Andalucía
+ALEA	Granada	GR301	Colomera	37.3742622	-3.71436522	Andalucía
+ALEA	Granada	GR302	Iznalloz	37.39201995	-3.53095401	Andalucía
+ALEA	Granada	GR304	Diezma	37.32111088	-3.33182232	Andalucía
+ALEA	Granada	GR305	Caparacena	37.2656799	-3.7151531	Andalucía
+ALEA	Granada	GR306	Brácana	37.2275285	-3.9504312	Andalucía
+ALEA	Granada	GR307	Quéntar	37.1932528	-3.4692589	Andalucía
+ALEA	Granada	GR308	Belicena	37.1717011	-3.7006908	Andalucía
+ALEA	Granada	GR309	Granada	37.17641932	-3.60001883	Andalucía
+ALEA	Granada	GR400	Cúllar-Baza	37.5832226	-2.8641001	Andalucía
+ALEA	Granada	GR401	Dehesas de Guadix	37.5910137	-3.10106009	Andalucía
+ALEA	Granada	GR403	Pedro Martínez	37.50277869	-3.23123516	Andalucía
+ALEA	Granada	GR404	Caniles	37.43694658	-2.72312271	Andalucía
+ALEA	Granada	GR405	Gor	37.36926976	-2.9694879	Andalucía
+ALEA	Granada	GR406	Guadix	37.30161072	-3.13638082	Andalucía
+ALEA	Granada	GR407	Charches	37.2946519	-2.9603917	Andalucía
+ALEA	Granada	GR408	Lugros	37.23019882	-3.2407447	Andalucía
+ALEA	Granada	GR409	Ferreira	37.17247581	-3.03620132	Andalucía
+ALEA	Granada	GR410	Lanteira	37.16839067	-3.13795796	Andalucía
+ALEA	Granada	GR500	Salar de Loja	37.1503106	-4.1366296	Andalucía
+ALEA	Granada	GR501	Monachil	37.13135337	-3.53893588	Andalucía
+ALEA	Granada	GR502	Chimeneas	37.13262106	-3.8211484	Andalucía
+ALEA	Granada	GR503	Escúzar	37.06231421	-3.76129307	Andalucía
+ALEA	Granada	GR504	El Padul	37.0236311	-3.6354336	Andalucía
+ALEA	Granada	GR505	Capileira	36.96126531	-3.35991264	Andalucía
+ALEA	Granada	GR506	Pórtugos	36.94150881	-3.31105821	Andalucía
+ALEA	Granada	GR507	Ventas de Zafarraya	36.9561658	-4.1288876	Andalucía
+ALEA	Granada	GR508	Jayena	36.94763567	-3.82352623	Andalucía
+ALEA	Granada	GR509	Albuñuelas	36.92926956	-3.62953573	Andalucía
+ALEA	Granada	GR510	Órgiva	36.90119925	-3.42391088	Andalucía
+ALEA	Granada	GR511	Alcázar	36.8498262	-3.3419753	Andalucía
+ALEA	Granada	GR512	Guájar-Faragüit	36.8413692	-3.5876158	Andalucía
+ALEA	Granada	GR513	Lújar	36.78759064	-3.40318791	Andalucía
+ALEA	Granada	GR514	Almuñécar	36.740314	-3.698466	Andalucía
+ALEA	Granada	GR515	Gualchos	36.74323519	-3.39076872	Andalucía
+ALEA	Granada	GR600	Mairena	37.0040834	-3.0463034	Andalucía
+ALEA	Granada	GR601	Trevélez	37.00057381	-3.2651633	Andalucía
+ALEA	Granada	GR602	Bérchules del Río	36.9761075	-3.1960582	Andalucía
+ALEA	Granada	GR603	Murtas	36.88713958	-3.10838867	Andalucía
+ALEA	Granada	GR604	Albuñol	36.79129267	-3.20167375	Andalucía
+ALEA	Huelva	H100	Encinasola	38.13527618	-6.87243524	Andalucía
+ALEA	Huelva	H101	Rosal de la Frontera	37.96758007	-7.22038214	Andalucía
+ALEA	Huelva	H102	Aroche	37.94521471	-6.95381063	Andalucía
+ALEA	Huelva	H200	Cumbres de San Bartolomé	38.07699788	-6.74345244	Andalucía
+ALEA	Huelva	H201	Arroyomolinos de León	38.02628837	-6.42109767	Andalucía
+ALEA	Huelva	H202	Aracena	37.8894945	-6.56158282	Andalucía
+ALEA	Huelva	H203	Santa Olalla del Cala	37.90505707	-6.23468816	Andalucía
+ALEA	Huelva	H204	Almonaster la Real	37.872631	-6.7872	Andalucía
+ALEA	Huelva	H300	Cabezas Rubias	37.72645716	-7.08598329	Andalucía
+ALEA	Huelva	H301	Calañas	37.65467658	-6.8787582	Andalucía
+ALEA	Huelva	H302	Puebla de Guzmán	37.6124301	-7.2571935	Andalucía
+ALEA	Huelva	H303	Sanlúcar de Guadiana	37.47240145	-7.4667592	Andalucía
+ALEA	Huelva	H400	Higuera de la Sierra	37.83845193	-6.4475541	Andalucía
+ALEA	Huelva	H401	Campofrío	37.76763727	-6.5728713	Andalucía
+ALEA	Huelva	H402	Berrocal	37.60903715	-6.54229268	Andalucía
+ALEA	Huelva	H500	San Bartolomé de la Torre	37.44639689	-7.1067949	Andalucía
+ALEA	Huelva	H501	San Silvestre de Guzmán	37.38864426	-7.35019368	Andalucía
+ALEA	Huelva	H502	Moguer	37.27471025	-6.83691754	Andalucía
+ALEA	Huelva	H503	Huelva	37.26004113	-6.95040588	Andalucía
+ALEA	Huelva	H504	Ayamonte	37.22437276	-7.40543973	Andalucía
+ALEA	Huelva	H600	Beas	37.42630834	-6.79288327	Andalucía
+ALEA	Huelva	H601	Paterna del Campo	37.42110994	-6.40156272	Andalucía
+ALEA	Huelva	H602	Niebla	37.36154941	-6.67961259	Andalucía
+ALEA	Huelva	H603	Bollullos Par del Condado	37.33626979	-6.53535271	Andalucía
+ALEA	Jaén	J100	Aldeaquemada	38.41203515	-3.37167309	Andalucía
+ALEA	Jaén	J101	Santa Elena	38.33835156	-3.53912249	Andalucía
+ALEA	Jaén	J102	La Isabela	38.2411409	-3.5812975	Andalucía
+ALEA	Jaén	J103	Baños de la Encina	38.17119919	-3.77426239	Andalucía
+ALEA	Jaén	J200	Villarrodrigo	38.4874995	-2.6384932	Andalucía
+ALEA	Jaén	J201	Orcera	38.31772994	-2.65920392	Andalucía
+ALEA	Jaén	J202	Beas de Segura	38.2506588	-2.88730567	Andalucía
+ALEA	Jaén	J203	Santiesteban del Puerto	38.2503587	-3.2133214	Andalucía
+ALEA	Jaén	J204	Villacarrillo	38.10893521	-3.08623926	Andalucía
+ALEA	Jaén	J205	Sabiote	38.06925563	-3.30737858	Andalucía
+ALEA	Jaén	J300	Canena	38.04885135	-3.48147823	Andalucía
+ALEA	Jaén	J301	Jabalquinto	38.01947513	-3.72456521	Andalucía
+ALEA	Jaén	J303	Arjonilla	37.9742431	-4.10757675	Andalucía
+ALEA	Jaén	J304	Cazalilla	37.9841708	-3.88204485	Andalucía
+ALEA	Jaén	J304	Torrequebradilla	37.9841708	-3.88204485	Andalucía
+ALEA	Jaén	J305	Fuerte del Rey	37.8739655	-3.88436808	Andalucía
+ALEA	Jaén	J306	Porcuna	37.86967238	-4.1843202	Andalucía
+ALEA	Jaén	J307	Torres	37.7863017	-3.51098941	Andalucía
+ALEA	Jaén	J308	Jaén	37.7651913	-3.7903594	Andalucía
+ALEA	Jaén	J309	Santiago de Calatrava	37.7542627	-4.1738835	Andalucía
+ALEA	Jaén	J400	Santiago de la Espada	38.1116303	-2.5563255	Andalucía
+ALEA	Jaén	J401	La Iruela	37.91985553	-2.99514476	Andalucía
+ALEA	Jaén	J402	Peal de Becerro	37.91218339	-3.12686117	Andalucía
+ALEA	Jaén	J403	Jódar	37.84139859	-3.35042356	Andalucía
+ALEA	Jaén	J404	Larva	37.75901292	-3.20142352	Andalucía
+ALEA	Jaén	J500	Huelma	37.65066057	-3.4610967	Andalucía
+ALEA	Jaén	J501	Alcaudete	37.59013356	-4.08750989	Andalucía
+ALEA	Jaén	J502	Valdepeñas de Jaén	37.59079444	-3.81968511	Andalucía
+ALEA	Jaén	J503	Noalejo	37.52893667	-3.65363388	Andalucía
+ALEA	Jaén	J504	Alcalá la Real	37.45979131	-3.92944941	Andalucía
+ALEA	Jaén	J600	Pozo Alcón	37.7031406	-2.9424382	Andalucía
+ALEA	Málaga	MA100	Sierra de Yeguas	37.1240068	-4.86861331	Andalucía
+ALEA	Málaga	MA101	Teba	36.98132441	-4.92158172	Andalucía
+ALEA	Málaga	MA102	Cañete la Real	36.95081213	-5.02326403	Andalucía
+ALEA	Málaga	MA200	Alameda	37.2094587	-4.66026922	Andalucía
+ALEA	Málaga	MA201	Villanueva de Algaidas	37.18660129	-4.45078097	Andalucía
+ALEA	Málaga	MA202	Villanueva del Trabuco	37.02928696	-4.33741698	Andalucía
+ALEA	Málaga	MA203	Antequera	37.0142215	-4.55804451	Andalucía
+ALEA	Málaga	MA300	Ardales	36.87640909	-4.84547635	Andalucía
+ALEA	Málaga	MA301	Ronda	36.73725905	-5.1654186	Andalucía
+ALEA	Málaga	MA302	Yunquera	36.73128747	-4.92100984	Andalucía
+ALEA	Málaga	MA303	Atajate	36.64036602	-5.24535471	Andalucía
+ALEA	Málaga	MA304	Igualeja	36.63082475	-5.12172092	Andalucía
+ALEA	Málaga	MA400	Valle de Abdalajís	36.9318143	-4.6855337	Andalucía
+ALEA	Málaga	MA401	Riogordo	36.91580161	-4.29359462	Andalucía
+ALEA	Málaga	MA402	Salares	36.85425695	-4.02418886	Andalucía
+ALEA	Málaga	MA403	Almogía	36.82473079	-4.54115435	Andalucía
+ALEA	Málaga	MA404	Benamocarra	36.79007301	-4.15992356	Andalucía
+ALEA	Málaga	MA405	Nerja	36.74484684	-3.87667655	Andalucía
+ALEA	Málaga	MA406	Málaga	36.72034267	-4.41997511	Andalucía
+ALEA	Málaga	MA407	Cártama	36.7124861	-4.6350901	Andalucía
+ALEA	Málaga	MA408	Coín	36.65987005	-4.75958685	Andalucía
+ALEA	Málaga	MA500	Jubrique	36.56447517	-5.2150682	Andalucía
+ALEA	Málaga	MA501	Benahavís	36.52379908	-5.04654321	Andalucía
+ALEA	Málaga	MA502	Gaucín	36.51729026	-5.3148786	Andalucía
+ALEA	Málaga	MA503	Estepona	36.42657668	-5.1463572	Andalucía
+ALEA	Málaga	MA600	Mijas	36.59339039	-4.63902803	Andalucía
+ALEA	Sevilla	SE100	Guadalcanal	38.09225368	-5.8214626	Andalucía
+ALEA	Sevilla	SE101	El Real de la Jara	37.95068934	-6.15594208	Andalucía
+ALEA	Sevilla	SE102	El Pedroso	37.84258191	-5.76365409	Andalucía
+ALEA	Sevilla	SE200	Las Navas de la Concepción	37.9324543	-5.5351694	Andalucía
+ALEA	Sevilla	SE201	La Puebla de los Infantes	37.77879083	-5.38773209	Andalucía
+ALEA	Sevilla	SE300	Castilblanco de los Arroyos	37.67485787	-5.98933717	Andalucía
+ALEA	Sevilla	SE301	El Madroño	37.645898	-6.51247314	Andalucía
+ALEA	Sevilla	SE302	El Garrobo	37.62513181	-6.17300738	Andalucía
+ALEA	Sevilla	SE303	Alcolea del Río	37.61469683	-5.67165417	Andalucía
+ALEA	Sevilla	SE304	Burguillos	37.58682997	-5.96677775	Andalucía
+ALEA	Sevilla	SE305	Aznalcóllar	37.52281812	-6.26869637	Andalucía
+ALEA	Sevilla	SE306	Olivares	37.4183665	-6.15621373	Andalucía
+ALEA	Sevilla	SE307	Sevilla	37.38620512	-5.99251368	Andalucía
+ALEA	Sevilla	SE308	El Viso del Alcor	37.3893384	-5.7379968	Andalucía
+ALEA	Sevilla	SE309	Bollullos de la Mitación	37.34067672	-6.13871172	Andalucía
+ALEA	Sevilla	SE400	La Campana	37.56551326	-5.42510324	Andalucía
+ALEA	Sevilla	SE401	Écija	37.54077247	-5.07543598	Andalucía
+ALEA	Sevilla	SE402	Carmona	37.47265463	-5.63324752	Andalucía
+ALEA	Sevilla	SE403	Marinaleda	37.37115941	-4.96269072	Andalucía
+ALEA	Sevilla	SE404	Lantejuela	37.353138	-5.240433	Andalucía
+ALEA	Sevilla	SE405	Casariche	37.29540105	-4.75917554	Andalucía
+ALEA	Sevilla	SE406	Paradas	37.28989484	-5.49618766	Andalucía
+ALEA	Sevilla	SE500	Puebla del Río	37.2681504	-6.2073407	Andalucía
+ALEA	Sevilla	SE501	Los Palacios y Villafranca	37.1630944	-5.943312	Andalucía
+ALEA	Sevilla	SE502	Los Molares	37.15558787	-5.71962007	Andalucía
+ALEA	Sevilla	SE503	Cabezas de San Juan	36.9863816	-6.0707864	Andalucía
+ALEA	Sevilla	SE600	La Puebla de Cazalla	37.22272096	-5.30648646	Andalucía
+ALEA	Sevilla	SE601	Morón de la Frontera	37.12022462	-5.44898927	Andalucía
+ALEA	Sevilla	SE602	Los Corrales	37.09724247	-4.9827313	Andalucía
+ALEA	Sevilla	SE603	Pruna	36.97277038	-5.22174386	Andalucía
+ALEARN	Álava	VI300	Labastida	42.590382	-2.79287	País Vasco
+ALEARN	Álava	VI600	La Guardia	42.55	-2.583056	País Vasco
+ALEARN	Burgos	BU400	Bugedo	42.649167	-3.017778	Castilla León
+ALEARN	Castellón	CS300	Arañuel	40.0711	-0.4817952	Valencia
+ALEARN	Castellón	CS301	Segorbe	39.85328	-0.4849939	Valencia
+ALEARN	Castellón	CS302	Bejís	39.91087	-0.7038683	Valencia
+ALEARN	Cuenca	CU200	Valdemeca	40.22374	-1.741087	Castilla La Mancha
+ALEARN	Cuenca	CU400	Santa Cruz de Moya	39.95631	-1.258873	Castilla La Mancha
+ALEARN	Guadalajara	GU200	Tortuera	40.9715	-1.798782	Castilla La Mancha
+ALEARN	Huesca	HU100	Sallent de Gállego	42.77204	-0.3347842	Aragón
+ALEARN	Huesca	HU101	Ansó	42.75754	-0.8281171	Aragón
+ALEARN	Huesca	HU102	Echo	42.738889	-0.750278	Aragón
+ALEARN	Huesca	HU103	Canfranc	42.71557	-0.5256487	Aragón
+ALEARN	Huesca	HU104	Aragüés del Puerto	42.70673	-0.6700809	Aragón
+ALEARN	Huesca	HU105	Berdún	42.603333	-0.858611	Aragón
+ALEARN	Huesca	HU106	Broto	42.60481	-0.1235453	Aragón
+ALEARN	Huesca	HU107	Jaca	42.57101	-0.5494531	Aragón
+ALEARN	Huesca	HU108	Bailo	42.51	-0.8113827	Aragón
+ALEARN	Huesca	HU109	Yebra de Basa	42.48631	-0.2820295	Aragón
+ALEARN	Huesca	HU110	Lasieso	42.4239	-0.436542	Aragón
+ALEARN	Huesca	HU111	Laguarta	42.41392	-0.119137	Aragón
+ALEARN	Huesca	HU112	Agüero	42.35485	-0.7945753	Aragón
+ALEARN	Huesca	HU200	Bielsa	42.6338	0.2184766	Aragón
+ALEARN	Huesca	HU201	Benasque	42.60514	0.5239731	Aragón
+ALEARN	Huesca	HU202	Gistaín	42.59116	0.3360597	Aragón
+ALEARN	Huesca	HU203	Fanlo	42.58699	-0.0211814	Aragón
+ALEARN	Huesca	HU204	Laspuña	42.50342	0.1536913	Aragón
+ALEARN	Huesca	HU205	Noales	42.458579	0.662779	Aragón
+ALEARN	Huesca	HU206	Aínsa	42.417222	0.1375	Aragón
+ALEARN	Huesca	HU207	Campo	42.40875	0.3940125	Aragón
+ALEARN	Huesca	HU300	Bolea	42.2603	-0.551389	Aragón
+ALEARN	Huesca	HU301	Huesca	42.1401	-0.408898	Aragón
+ALEARN	Huesca	HU302	Angüés	42.11126	-0.153561	Aragón
+ALEARN	Huesca	HU303	Almudévar	42.03736	-0.5796334	Aragón
+ALEARN	Huesca	HU304	Aberuela de Tubo	41.909444	0.213056	Aragón
+ALEARN	Huesca	HU305	Robres	41.86637	-0.4609118	Aragón
+ALEARN	Huesca	HU400	Santaliestra y San Quílez	42.306944	0.364444	Aragón
+ALEARN	Huesca	HU401	La Puebla de Roda	42.302778	0.542222	Aragón
+ALEARN	Huesca	HU402	Arén	42.25887	0.7209243	Aragón
+ALEARN	Huesca	HU403	La Puebla de Castro	42.144444	0.2875	Aragón
+ALEARN	Huesca	HU404	Tolva	42.11551	0.56399	Aragón
+ALEARN	Huesca	HU405	Pozán de Vero	42.08028	0.0336244	Aragón
+ALEARN	Huesca	HU406	Azanuy	41.9726	0.31096	Aragón
+ALEARN	Huesca	HU407	Pueyo	42.56591	-1.647855	Aragón
+ALEARN	Huesca	HU408	Albelda	41.86542	0.4611521	Aragón
+ALEARN	Huesca	HU500	Pallaruelo de Monegros	41.704722	0.208889	Aragón
+ALEARN	Huesca	HU600	Santalecina	41.779444	0.115556	Aragón
+ALEARN	Huesca	HU601	Chalamera	41.66556	0.1619226	Aragón
+ALEARN	Huesca	HU602	Fraga	41.52243	0.3489263	Aragón
+ALEARN	Huesca	HU603	Candasnos	41.502087	0.062167	Aragón
+ALEARN	Logroño	LO100	Casalarreina	42.54792	-2.913199	La Rioja
+ALEARN	Logroño	LO101	San Asensio	42.49755	-2.748897	La Rioja
+ALEARN	Logroño	LO102	Tormantos	42.49433	-3.074003	La Rioja
+ALEARN	Logroño	LO103	Logroño	42.46577	-2.449995	La Rioja
+ALEARN	Logroño	LO300	Alesanco	42.41421	-2.8169	La Rioja
+ALEARN	Logroño	LO301	Albelda	41.86542	0.4611521	La Rioja
+ALEARN	Logroño	LO302	Valgañón	42.31764	-3.06729	La Rioja
+ALEARN	Logroño	LO303	Tobía	42.298056	-2.815278	La Rioja
+ALEARN	Logroño	LO304	Torrecilla en Cameros	42.256111	-2.630278	La Rioja
+ALEARN	Logroño	LO305	San Román de Cameros	42.232222	-2.473889	La Rioja
+ALEARN	Logroño	LO400	Andosilla	42.37699	-1.942034	La Rioja
+ALEARN	Logroño	LO401	Galilea	42.34824	-2.235826	La Rioja
+ALEARN	Logroño	LO500	Canales	42.141111	-3.024167	La Rioja
+ALEARN	Logroño	LO501	Viniegra de Arriba	42.09575	-2.834686	La Rioja
+ALEARN	Logroño	LO502	Lumbreras	42.105	-2.62399	La Rioja
+ALEARN	Logroño	LO600	Autol	42.21553	-2.006565	La Rioja
+ALEARN	Logroño	LO601	Herce	42.214167	-2.164722	La Rioja
+ALEARN	Logroño	LO602	Alfaro	42.17858	-1.749326	La Rioja
+ALEARN	Logroño	LO603	Enciso	42.14893	-2.269399	La Rioja
+ALEARN	Logroño	LO604	Cornago	42.06551	-2.093088	La Rioja
+ALEARN	Logroño	LO605	Cervera del Río Alhama	42.00699	-1.95191	La Rioja
+ALEARN	Navarra	NA100	Vera de Bidasoa	43.278333	-1.6825	Navarra
+ALEARN	Navarra	NA101	Goizueta	43.17105	-1.864216	Navarra
+ALEARN	Navarra	NA102	Arriba	43.039444	-1.986111	Navarra
+ALEARN	Navarra	NA103	Los Arcos	42.566667	-2.183056	Navarra
+ALEARN	Navarra	NA104	Arbizu	42.9155	-2.039817	Navarra
+ALEARN	Navarra	NA105	Ciordia	42.870625	-2.226997	Navarra
+ALEARN	Navarra	NA106	Ollo	42.86711	-1.858877	Navarra
+ALEARN	Navarra	NA200	Lecároz	43.1460035	-1.5418793	Navarra
+ALEARN	Navarra	NA201	Espinal	42.979167	-1.370278	Navarra
+ALEARN	Navarra	NA202	Egozcue	42.9625	-1.5775	Navarra
+ALEARN	Navarra	NA203	Erro	42.94243	-1.447209	Navarra
+ALEARN	Navarra	NA204	Garayoa	42.930833	-1.242778	Navarra
+ALEARN	Navarra	NA205	Ochagavía	42.906667	-1.089167	Navarra
+ALEARN	Navarra	NA206	Roncal	42.8075	-0.955833	Navarra
+ALEARN	Navarra	NA300	Pamplona	42.816667	-1.65	Navarra
+ALEARN	Navarra	NA301	Eulate	42.77654	-2.208038	Navarra
+ALEARN	Navarra	NA302	Zudaire	42.773889	-2.132778	Navarra
+ALEARN	Navarra	NA303	Salinas de Oro	42.77519	-1.88998	Navarra
+ALEARN	Navarra	NA304	Estella	42.666667	-2.016667	Navarra
+ALEARN	Navarra	NA305	Añorbe	42.65805	-1.714662	Navarra
+ALEARN	Navarra	NA306	Aguilar de Codés	42.612778	-2.389167	Navarra
+ALEARN	Navarra	NA307	Allo	42.5673	-2.019259	Navarra
+ALEARN	Navarra	NA308	Berbinzana	42.52661	-1.834007	Navarra
+ALEARN	Navarra	NA309	Lazagurría	42.493611	-2.238889	Navarra
+ALEARN	Navarra	NA400	Artieda	42.58543	-0.9840556	Navarra
+ALEARN	Navarra	NA401	Navascués	42.71852	-1.116588	Navarra
+ALEARN	Navarra	NA402	Monreal	42.70464	-1.506409	Navarra
+ALEARN	Navarra	NA403	Javier	42.59081	-1.20881	Navarra
+ALEARN	Navarra	NA404	Cáseda	42.52327	-1.367427	Navarra
+ALEARN	Navarra	NA405	San Martín de Unx	42.52383	-1.561407	Navarra
+ALEARN	Navarra	NA500	Andosilla	42.37699	-1.942034	Navarra
+ALEARN	Navarra	NA501	Caparroso	42.34153	-1.649788	Navarra
+ALEARN	Navarra	NA502	Cascante	41.99897	-1.679192	Navarra
+ALEARN	Navarra	NA600	Carcastillo	42.3798	-1.444428	Navarra
+ALEARN	Navarra	NA601	Arguedas	42.17671	-1.598272	Navarra
+ALEARN	Navarra	NA602	Ribaforada	41.99684	-1.511305	Navarra
+ALEARN	Soria	SO400	Ólvega	41.77938	-1.985618	Castilla León
+ALEARN	Soria	SO402	Ciria	41.61886	-1.965891	Castilla León
+ALEARN	Soria	SO600	Arcos de Jalón	41.21495	-2.2713	Castilla León
+ALEARN	Teruel	TE100	Noguera	40.458852	-1.597721	Aragón
+ALEARN	Teruel	TE101	Forreruela	41.062641	-1.233108	Aragón
+ALEARN	Teruel	TE102	Muniesa	41.03386	-0.8120759	Aragón
+ALEARN	Teruel	TE103	Bello	40.92228	-1.499419	Aragón
+ALEARN	Teruel	TE104	Barrachina	40.89761	-1.140161	Aragón
+ALEARN	Teruel	TE200	Híjar	41.17572	-0.451008	Aragón
+ALEARN	Teruel	TE201	Alcañiz	41.04895	-0.1306302	Aragón
+ALEARN	Teruel	TE202	Calaceite	41.01737	0.1883228	Aragón
+ALEARN	Teruel	TE203	Alloza	40.96944	-0.5302091	Aragón
+ALEARN	Teruel	TE204	La Codoñera	40.93358	-0.0862302	Aragón
+ALEARN	Teruel	TE205	Valderrobres	40.87544	0.1556791	Aragón
+ALEARN	Teruel	TE206	Estercuel	40.85538	-0.63077	Aragón
+ALEARN	Teruel	TE207	Peñarroya de Tastavins	40.755	0.039722	Aragón
+ALEARN	Teruel	TE300	Montalbán	40.83571	-0.7995237	Aragón
+ALEARN	Teruel	TE301	Torrijo del Campo	40.82687	-1.336394	Aragón
+ALEARN	Teruel	TE302	Visiedo	40.68581	-1.098317	Aragón
+ALEARN	Teruel	TE303	Villar del Salz	40.682025	-1.49984	Aragón
+ALEARN	Teruel	TE304	Santa Eulalia del Campo	40.568765	-1.314525	Aragón
+ALEARN	Teruel	TE305	Alfambra	40.54725	-1.033759	Aragón
+ALEARN	Teruel	TE306	Noguera	40.458852	-1.597721	Aragón
+ALEARN	Teruel	TE307	Cedrillas	40.43633	-0.8514571	Aragón
+ALEARN	Teruel	TE308	Teruel	40.34411	-1.10691	Aragón
+ALEARN	Teruel	TE400	Mas de las Matas	40.83395	-0.2415907	Aragón
+ALEARN	Teruel	TE401	Bordón	40.68736	-0.3218952	Aragón
+ALEARN	Teruel	TE402	Aliaga	40.67419	-0.7019678	Aragón
+ALEARN	Teruel	TE403	Tronchón	40.62114	-0.3990553	Aragón
+ALEARN	Teruel	TE404	Fortanete	40.50564	-0.523106	Aragón
+ALEARN	Teruel	TE405	Iglesuela del Cid	40.481524	-0.319375	Aragón
+ALEARN	Teruel	TE406	Alcalá de la Selva	40.372222	-0.719722	Aragón
+ALEARN	Teruel	TE500	Masegoso	40.233512	-1.51289	Aragón
+ALEARN	Teruel	TE501	La Puebla de Valverde	40.224544	-0.930172	Aragón
+ALEARN	Teruel	TE502	Ríodeva	40.117599	-1.147116	Aragón
+ALEARN	Teruel	TE503	Manzanera	40.05788	-0.8298928	Aragón
+ALEARN	Teruel	TE504	Arcos de las Salinas	39.991389	-1.04	Aragón
+ALEARN	Teruel	TE600	Puertomingalvo	40.264661	-0.459468	Aragón
+ALEARN	Teruel	TE601	Olba	40.13258	-0.6249871	Aragón
+ALEARN	Valencia	V100	Ademuz	40.06174	-1.286526	Valencia
+ALEARN	Valencia	V101	Titaguas	39.86609	-1.080663	Valencia
+ALEARN	Zaragoza	Z100	Sos del Rey Católico	42.49719	-1.215209	Aragón
+ALEARN	Zaragoza	Z101	Uncastillo	42.3615	-1.130387	Aragón
+ALEARN	Zaragoza	Z200	Salvatierra de Esca	42.66882	-1.004887	Aragón
+ALEARN	Zaragoza	Z201	Biel	42.38749	-0.9365878	Aragón
+ALEARN	Zaragoza	Z202	Ardisa	42.20103	-0.7574904	Aragón
+ALEARN	Zaragoza	Z300	Ejea de los Cabaleros	42.127282	-1.138433	Aragón
+ALEARN	Zaragoza	Z301	Mallén	41.90051	-1.418496	Aragón
+ALEARN	Zaragoza	Z302	Tarazona	41.90277	-1.7254	Aragón
+ALEARN	Zaragoza	Z303	Alagón	41.77036	-1.121953	Aragón
+ALEARN	Zaragoza	Z304	Fuendejalón	41.76073	-1.472178	Aragón
+ALEARN	Zaragoza	Z305	Calcena	41.6562	-1.717815	Aragón
+ALEARN	Zaragoza	Z400	Las Pedrosas	42.03822	-0.876332	Aragón
+ALEARN	Zaragoza	Z401	Leciñena	41.79892	-0.6105711	Aragón
+ALEARN	Zaragoza	Z402	Zuera	41.86918	-0.7881644	Aragón
+ALEARN	Zaragoza	Z500	Bijuesca	41.54044	-1.920954	Aragón
+ALEARN	Zaragoza	Z501	La Almunia de Doña Godina	41.4774	-1.37605	Aragón
+ALEARN	Zaragoza	Z502	Sabiñán	41.44313	-1.567401	Aragón
+ALEARN	Zaragoza	Z503	Ateca	41.33101	-1.793537	Aragón
+ALEARN	Zaragoza	Z504	Paniza	41.28468	-1.21236	Aragón
+ALEARN	Zaragoza	Z505	Olvés	41.23921	-1.645912	Aragón
+ALEARN	Zaragoza	Z506	Alconchel	41.204118	-2.122082	Aragón
+ALEARN	Zaragoza	Z507	Used	41.056111	-1.561111	Aragón
+ALEARN	Zaragoza	Z600	Osera de Ebro	41.534361	-0.580646	Aragón
+ALEARN	Zaragoza	Z601	Bujaraloz	41.49786	-0.1492837	Aragón
+ALEARN	Zaragoza	Z602	Muel	41.46351	-1.086437	Aragón
+ALEARN	Zaragoza	Z603	Velilla de Ebro	41.373603	-0.43723	Aragón
+ALEARN	Zaragoza	Z604	Codo	41.33324	-0.6999325	Aragón
+ALEARN	Zaragoza	Z605	Caspe	41.234	-0.0440777	Aragón
+ALEARN	Zaragoza	Z606	Fayón	41.24017	0.3339737	Aragón
+ALPI	Álava	429	Zuaza	43.0998634	-3.0516001	País Vasco
+ALPI	Álava	430	Sarría	42.9655123	-2.8297539	País Vasco
+ALPI	Álava	431	Ozaeta	42.9166901	-2.4992758	País Vasco
+ALPI	Álava	432	San Vicente de Arana	42.74397	-2.3618722	País Vasco
+ALPI	Albacete	482	Munera	39.04217	-2.48068	Castilla La Mancha
+ALPI	Albacete	483	Tarazona de la Mancha	39.25	-1.91667	Castilla La Mancha
+ALPI	Albacete	484	Casas de Ves	39.2582619	-1.3385444	Castilla La Mancha
+ALPI	Albacete	485	Higueruela	38.96371	-1.4437	Castilla La Mancha
+ALPI	Albacete	486	Peñas de San Pedro	38.7288	-2.005	Castilla La Mancha
+ALPI	Albacete	487	Caudete (de la Encina)	38.7204853	-1.0593356	Castilla La Mancha
+ALPI	Albacete	488	Letur	38.36626	-2.10206	Castilla La Mancha
+ALPI	Albacete	489	Agramón	38.4217253	-1.6419076	Castilla La Mancha
+ALPI	Alicante	781	Biar	38.63117	-0.76458	Valencia
+ALPI	Alicante	782	Benilloba	38.70012	-0.38998	Valencia
+ALPI	Alicante	783	Benialí	38.8220361	-0.2231536	Valencia
+ALPI	Alicante	784	Calp	38.6447	0.0445	Valencia
+ALPI	Alicante	785	El Pinós	38.40164	-1.04196	Valencia
+ALPI	Alicante	786	Monforte	38.3801908	-0.7354746	Valencia
+ALPI	Alicante	787	El Campello	38.42885	-0.39774	Valencia
+ALPI	Alicante	788	Crevillent	38.24994	-0.80975	Valencia
+ALPI	Alicante	789	Dolores	38.1374399	-0.7864954	Valencia
+ALPI	Alicante	790	Guardamar	38.1014955	-0.6503244	Valencia
+ALPI	Almería	553	Fiñana	37.1715	-2.84011	Andalucía
+ALPI	Almería	554	Suflí	37.33866	-2.38817	Andalucía
+ALPI	Almería	555	Taberno	37.4688	-2.07736	Andalucía
+ALPI	Almería	556	La Alquería de Adra	36.7781296	-3.0727171	Andalucía
+ALPI	Almería	557	Alicún de Almería	37.591727	-3.1811	Andalucía
+ALPI	Almería	558	Cabo de Gata	36.7217	-2.19292	Andalucía
+ALPI	Almería	559	Lucainena de las Torres	37.04037	-2.20095	Andalucía
+ALPI	Almería	560	Mojácar	37.1402	-1.85102	Andalucía
+ALPI	Andorra	700	Encamp	42.5343599	1.5718917	Andorra
+ALPI	Asturias	300	Salgueiras	43.5461458	-6.6867987	Asturias
+ALPI	Asturias	301	As Campas	43.5238246	-6.9891013	Asturias
+ALPI	Asturias	302	Freal	43.5461459	-6.6835049	Asturias
+ALPI	Asturias	303	Boal	43.432	-6.81513	Asturias
+ALPI	Asturias	304	Busmente	43.4231959	-6.6976771	Asturias
+ALPI	Asturias	305	Navelgas	43.4040474	-6.5508005	Asturias
+ALPI	Asturias	306	Santa Eulalia	43.2595276	-7.5819834	Asturias
+ALPI	Asturias	307	Soto de la Barca	43.2942171	-6.3951609	Asturias
+ALPI	Asturias	308	Pola de Somiedo	43.0929	-6.25629	Asturias
+ALPI	Asturias	309	Villanueva de Teberga	43.1495562	-6.1423489	Asturias
+ALPI	Asturias	310	La Mata	43.3292438	-6.2995527	Asturias
+ALPI	Asturias	311	Santiago del Monte	43.5500286	-6.0348249	Asturias
+ALPI	Asturias	312	San Martín de Podes	43.612283	-5.8948914	Asturias
+ALPI	Asturias	313	Llantones	43.4788168	-5.7005283	Asturias
+ALPI	Asturias	314	Cenera	43.2176447	-5.8203848	Asturias
+ALPI	Asturias	315	Felechosa	43.10439	-5.5162477	Asturias
+ALPI	Asturias	316	Malvedo	43.1059687	-5.8023493	Asturias
+ALPI	Asturias	317	Cimalavilla	43.3006637	-5.716673	Asturias
+ALPI	Asturias	318	Nozaleda	43.1957862	-5.324509	Asturias
+ALPI	Asturias	319	Pintueles	43.3758675	-5.3568722	Asturias
+ALPI	Asturias	320	Sames	43.2699057	-5.1309626	Asturias
+ALPI	Asturias	321	Los Carriles	43.41404	-4.9310406	Asturias
+ALPI	Asturias	322	Cimiano	43.3243856	-4.5770005	Asturias
+ALPI	Asturias	323	Cuantas	43.0333709	-6.8772534	Asturias
+ALPI	Aveiro	241	Sobrado de Paiva	41.0411251	-8.4127725	Portugal
+ALPI	Aveiro	242	Pardilhó	40.79925	-8.62598	Portugal
+ALPI	Aveiro	243	Famalicão=Mealhada	40.3821053	-8.4600602	Portugal
+ALPI	Ávila	449	Hernansancho	40.85753	-4.73045	Castilla León
+ALPI	Ávila	450	Grajos	40.6530188	-5.0553345	Castilla León
+ALPI	Ávila	451	La Horcajada	42.80082	-4.73365	Castilla León
+ALPI	Ávila	452	Santa Cruz del Valle	40.2516	-5.00133	Castilla León
+ALPI	Ávila	453	Las Navas del Marqués	40.60244	-4.33449	Castilla León
+ALPI	Badajoz	368	Alburquerque	39.22076	-7.00234	Extremadura
+ALPI	Badajoz	369	Talavera la Real	38.87721	-6.77406	Extremadura
+ALPI	Badajoz	370	Campanario	38.8642297	-5.6282331	Extremadura
+ALPI	Badajoz	371	Almendral	38.61418	-6.82097	Extremadura
+ALPI	Badajoz	372	Fuente del Maestre	38.52656	-6.44782	Extremadura
+ALPI	Badajoz	373	Hornachos	38.55428	-6.06829	Extremadura
+ALPI	Badajoz	374	Valle de Santa Ana	38.36637	-6.7886	Extremadura
+ALPI	Badajoz	375	Ahillones	38.26667	-5.85	Extremadura
+ALPI	Badajoz	376	Valencia de Mombuey	38.2426049	-7.1213417	Extremadura
+ALPI	Badajoz	377	Calera de León	38.1	-6.33333	Extremadura
+ALPI	Baleares	791	Sant Joan Baptista	39.077357	1.5118375	Baleares
+ALPI	Baleares	792	Eivissa (Ibiza)	38.908393	1.432146	Baleares
+ALPI	Baleares	793	Calvià	39.5657	2.50621	Baleares
+ALPI	Baleares	794	Sóller	39.79759	2.69637	Baleares
+ALPI	Baleares	795	Pollensa	39.935499	3.150427	Baleares
+ALPI	Baleares	796	Sineu	39.64254	3.01034	Baleares
+ALPI	Baleares	797	Campos	39.430556	3.019444	Baleares
+ALPI	Baleares	798	Felanitx	39.4693387	3.1407943	Baleares
+ALPI	Baleares	799	Manacor	39.568749	3.21062	Baleares
+ALPI	Baleares	800	Son Servera	39.62073	3.36008	Baleares
+ALPI	Baleares	802	Ciutadella (Ciudadela)	40.00112	3.84144	Baleares
+ALPI	Baleares	803	Maó (Mahón)	39.889482	4.264116	Baleares
+ALPI	Barcelona	732	La Valldan	42.0857936	1.6469604	Cataluña
+ALPI	Barcelona	733	Sant Bartomeu de Grau	41.981324	2.1718089	Cataluña
+ALPI	Barcelona	734	Santpedor	41.78309	1.84673	Cataluña
+ALPI	Barcelona	735	Castellterçol	41.75	2.11667	Cataluña
+ALPI	Barcelona	736	Sant Martí Sesgueioles	41.7043942	1.4928352	Cataluña
+ALPI	Barcelona	737	Viladecavalls	41.55	1.95	Cataluña
+ALPI	Barcelona	738	Llinars del Vallès	41.63333	2.4	Cataluña
+ALPI	Barcelona	739	La Granada del Penedès	41.3783498	1.7077322	Cataluña
+ALPI	Barcelona	740	Cornellà de Llobregat	41.35	2.08333	Cataluña
+ALPI	Beja	281	Barrancos	38.13446	-6.97604	Portugal
+ALPI	Beja	282	Moura	38.144138	-7.449427	Portugal
+ALPI	Beja	283	Ferreira do Alentejo	38.05	-8.03333	Portugal
+ALPI	Beja	284	Vila Nova de Milfontes	37.72377	-8.78278	Portugal
+ALPI	Beja	285	Ourique	37.6556341	-8.239105	Portugal
+ALPI	Beja	286	Monte dos Sapos	37.6248366	-7.7020861	Portugal
+ALPI	Braga	205	Salamonde	41.6792119	-8.1236499	Portugal
+ALPI	Braga	206	Balugães	41.6429925	-8.6462479	Portugal
+ALPI	Braga	207	Marinhas	41.55906	-8.78297	Portugal
+ALPI	Braga	208	Apúlia	41.48512	-8.76413	Portugal
+ALPI	Braga	209	Brito	41.45821	-8.36103	Portugal
+ALPI	Braga	210	Fafe	41.45423	-8.168	Portugal
+ALPI	Braga	211	Arco de Baúlhe	41.40655	-7.60812	Portugal
+ALPI	Bragança	220	Sobreiró	41.8363735	-7.1993797	Portugal
+ALPI	Bragança	221	Rio de Onor	41.940278	-6.616389	Portugal
+ALPI	Bragança	222	Rebordãos	41.7421624	-6.832823	Portugal
+ALPI	Bragança	223	Torre de Dona Chama	41.5	-7.5	Portugal
+ALPI	Bragança	224	Vimioso	41.58473	-6.52767	Portugal
+ALPI	Bragança	225	Duas Igrejas	41.47193	-6.3563947	Portugal
+ALPI	Bragança	226	Peredo	41.4279679	-6.9241403	Portugal
+ALPI	Bragança	227	Vilarinho das Azenhas	41.3783125	-7.2156873	Portugal
+ALPI	Bragança	228	Lagoaça	41.1345947	-6.7616144	Portugal
+ALPI	Burgos	418	Manzanedo	43.0205542	-3.7861635	Castilla León
+ALPI	Burgos	419	Castrobarto	43.0403416	-3.3942686	Castilla León
+ALPI	Burgos	420	Villalba de la Losa	42.963454	-3.188202	Castilla León
+ALPI	Burgos	421	Sotresgudo	42.57935	-4.17725	Castilla León
+ALPI	Burgos	422	Hontomín	42.5716017	-3.6407672	Castilla León
+ALPI	Burgos	423	Vallarta de Bureba	42.58864	-3.20457	Castilla León
+ALPI	Burgos	424	Treviño	42.702152	-2.674476	Castilla León
+ALPI	Burgos	425	Pampliega	42.205825	-3.987605	Castilla León
+ALPI	Burgos	426	Pinilla de los Moros	42.06815	-3.32706	Castilla León
+ALPI	Burgos	427	Villanueva de Gumiel	41.73778	-3.62658	Castilla León
+ALPI	Cáceres	360	Valverde del Fresno	40.2221	-6.87848	Extremadura
+ALPI	Cáceres	361	Pinofranqueado	40.30351	-6.33181	Extremadura
+ALPI	Cáceres	362	Eljas	40.2158372	-6.8488454	Extremadura
+ALPI	Cáceres	363	Jarandilla	40.1262682	-5.7790219	Extremadura
+ALPI	Cáceres	364	Ceclavín	39.82231	-6.77329	Extremadura
+ALPI	Cáceres	365	Herrera de Alcántara	39.6382418	-7.4221498	Extremadura
+ALPI	Cáceres	366	Aliseda	39.4218202	-6.6976398	Extremadura
+ALPI	Cáceres	367	Madroñera	39.42526	-5.75568	Extremadura
+ALPI	Cádiz	532	El Bosque	36.757294	-5.506722	Andalucía
+ALPI	Cádiz	533	Chiclana de la Frontera	36.41915	-6.14941	Andalucía
+ALPI	Cádiz	534	Alcalá de los Gazules	36.46212	-5.72382	Andalucía
+ALPI	Cádiz	535	Tarifa	36.066459	-5.683253	Andalucía
+ALPI	Cantabria	400	Valle de Cabuérniga	43.23487	-4.37672	Cantabria
+ALPI	Cantabria	401	Yermo	43.3076425	-4.0840686	Cantabria
+ALPI	Cantabria	402	Miera	43.2858444	-3.7911648	Cantabria
+ALPI	Cantabria	403	Balbacienta	43.3574194	-3.3298128	Cantabria
+ALPI	Cantabria	404	Espinama	43.1282329	-4.7913169	Cantabria
+ALPI	Cantabria	405	Vega de Liébana	43.04992	-4.73757	Cantabria
+ALPI	Cantabria	406	Tudanca	43.1524007	-4.3757751	Cantabria
+ALPI	Cantabria	407	Vega de Pas	43.1573826	-3.7848649	Cantabria
+ALPI	Cantabria	408	Bustantegua	43.2132448	-3.7627925	Cantabria
+ALPI	Cantabria	409	Veguilla	43.1876661	-3.8007499	Cantabria
+ALPI	Cantabria	410	La Costana	43.0163995	-4.143563	Cantabria
+ALPI	Cantabria	411	Resconorio	43.0730541	-3.8819965	Cantabria
+ALPI	Castellón	750	Cinctorres	40.58333	-0.21667	Valencia
+ALPI	Castellón	751	La Pobla de Benifassà	40.6566222	0.1554686	Valencia
+ALPI	Castellón	752	Vilar de Canes	40.321111	-2.893889	Valencia
+ALPI	Castellón	753	Peñíscola	40.3772224	0.3818105	Valencia
+ALPI	Castellón	754	Vistabella del Maestrat	40.2934072	-0.2943456	Valencia
+ALPI	Castellón	755	Castillo de Villamalefa	40.13333	-0.38333	Valencia
+ALPI	Castellón	756	Fanzara	40.01667	-0.31667	Valencia
+ALPI	Castellón	757	Alcora	40.0757445	-0.2174215	Valencia
+ALPI	Castellón	758	Oropesa del Mar	40.093581	0.133339	Valencia
+ALPI	Castellón	759	Teresa de Begís	39.9095558	-0.7160784	Valencia
+ALPI	Castellón	760	Azuébar	39.83333	-0.36667	Valencia
+ALPI	Castellón	761	Ain	39.9002629	-0.3433	Valencia
+ALPI	Castellón	762	Moncofa	39.80907	-0.14701	Valencia
+ALPI	Castelo Branco	249	Belmonte	40.35852	-7.351366	Portugal
+ALPI	Castelo Branco	250	Ourondo	40.1575902	-7.6943679	Portugal
+ALPI	Castelo Branco	251	Monsanto	40.039386	-7.11424	Portugal
+ALPI	Castelo Branco	252	Alcains	39.91539	-7.461071	Portugal
+ALPI	Castelo Branco	253	Oleiros	39.9203725	-7.9092951	Portugal
+ALPI	Castelo Branco	254	Rosmaninhal	39.7306961	-7.2662419	Portugal
+ALPI	Ciudad Real	475	Puebla de Don Rodrigo	39.08564	-4.61966	Castilla La Mancha
+ALPI	Ciudad Real	476	Alcolea de Calatrava	38.9868	-4.11597	Castilla La Mancha
+ALPI	Ciudad Real	477	Villarrubia de los Ojos	39.22085	-3.60802	Castilla La Mancha
+ALPI	Ciudad Real	478	Pedro Muñoz	39.40285	-2.94664	Castilla La Mancha
+ALPI	Ciudad Real	479	Fuencaliente	39.18624	-4.02576	Castilla La Mancha
+ALPI	Ciudad Real	480	El Viso del Marqués	38.52208	-3.56348	Castilla La Mancha
+ALPI	Ciudad Real	481	Carrizosa	38.84204	-2.9925	Castilla La Mancha
+ALPI	Coimbra	244	Praia de Mira	40.4488623	-8.8022442	Portugal
+ALPI	Coimbra	245	Montemor-o-Velho	40.17287	-8.68616	Portugal
+ALPI	Coimbra	246	Lavos	40.09363	-8.82826	Portugal
+ALPI	Coimbra	247	Chainça	40.1877134	-8.6251278	Portugal
+ALPI	Coimbra	248	Arganil	40.2198987	-8.0605411	Portugal
+ALPI	Córdoba	500	Belalcázar	38.575301	-5.167351	Andalucía
+ALPI	Córdoba	501	Pedroche	38.42848	-4.76325	Andalucía
+ALPI	Córdoba	502	Fuente Obejuna	38.2671742	-5.4286815	Andalucía
+ALPI	Córdoba	503	Villaviciosa	38.0757667	-5.0239722	Andalucía
+ALPI	Córdoba	504	Adamuz	38.02674	-4.52231	Andalucía
+ALPI	Córdoba	505	Hornachuelos	37.83333	-5.23333	Andalucía
+ALPI	Córdoba	506	La Carlota	37.674929	-4.929648	Andalucía
+ALPI	Córdoba	507	Doña Mencía	37.540948	-4.373006	Andalucía
+ALPI	Cuenca	470	Carrascosa del Campo	40.0359446	-2.740807	Castilla La Mancha
+ALPI	Cuenca	471	Albalate de las Nogueras	40.36614	-2.27718	Castilla La Mancha
+ALPI	Cuenca	472	Valdemoro de la Sierra	40.1	-1.76667	Castilla La Mancha
+ALPI	Cuenca	473	Honrubia	39.61358	-2.28077	Castilla La Mancha
+ALPI	Cuenca	474	Cardenete	39.76667	-1.68333	Castilla La Mancha
+ALPI	Évora	279	São Matias	38.5896544	-8.1400927	Portugal
+ALPI	Évora	280	Alandroal	38.702	-7.40309	Portugal
+ALPI	Faro	287	Santa Justa	37.4254053	-7.7879468	Portugal
+ALPI	Faro	288	Odeleite	37.3307725	-7.6771306	Portugal
+ALPI	Faro	289	Alte	37.2648239	-8.2409795	Portugal
+ALPI	Faro	290	Marmelete	37.3062921	-8.7572744	Portugal
+ALPI	Faro	291	Sagres	37.00864	-8.94311	Portugal
+ALPI	Faro	292	Fuseta	37.0489073	-8.0261615	Portugal
+ALPI	Girona	722	Bolvir	42.41775	1.87986	Cataluña
+ALPI	Girona	723	Campdevànol	42.2236795	2.1611782	Cataluña
+ALPI	Girona	724	Molló	42.40404	2.47928	Cataluña
+ALPI	Girona	725	Agullana	42.39408	2.84666	Cataluña
+ALPI	Girona	726	Cadaqués	42.2870717	3.2725647	Cataluña
+ALPI	Girona	727	Besalú	42.19893	2.69953	Cataluña
+ALPI	Girona	728	Bordils	42.04336	2.91088	Cataluña
+ALPI	Girona	729	Anglès	41.95617	2.63603	Cataluña
+ALPI	Girona	730	Mont-ras	41.9066752	3.1365327	Cataluña
+ALPI	Girona	731	Blanes	41.67419	2.79036	Cataluña
+ALPI	Granada	544	Zafarraya	36.9754619	-4.1550271	Andalucía
+ALPI	Granada	545	Montefrío	37.32308	-4.00898	Andalucía
+ALPI	Granada	546	Darro	37.34987	-3.29465	Andalucía
+ALPI	Granada	547	Zújar	37.54285	-2.84197	Andalucía
+ALPI	Granada	548	Orce	37.7218468	-2.4880887	Andalucía
+ALPI	Granada	549	Güéjar-Sierra	37.15994	-3.43863	Andalucía
+ALPI	Granada	550	Melegís	36.935788	-3.5769731	Andalucía
+ALPI	Granada	551	La Garnatilla	36.7424067	-3.4429617	Andalucía
+ALPI	Granada	552	Mecina-Bombarón	36.9825787	-3.160354	Andalucía
+ALPI	Guadalajara	458	Renera	40.48976	-3.01367	Castilla La Mancha
+ALPI	Guadalajara	459	Galve de Sorbe	41.21667	-3.18333	Castilla La Mancha
+ALPI	Guadalajara	460	La Toba	41.004167	-2.981944	Castilla La Mancha
+ALPI	Guadalajara	461	Gárgoles de Abajo	40.7327294	-2.6271249	Castilla La Mancha
+ALPI	Guadalajara	462	Valhermoso	40.7859	-1.96121	Castilla La Mancha
+ALPI	Guarda	229	Vila Nova de Foz-Coa	41.10045	-6.810177	Portugal
+ALPI	Guarda	230	Quinta Nova	40.8010233	-7.1266587	Portugal
+ALPI	Guarda	231	Casas de Soeiro	40.6158836	-7.5492781	Portugal
+ALPI	Guarda	232	Vilar Formoso	40.6138138	-6.8524367	Portugal
+ALPI	Guarda	233	Aldeia do Bispo	40.323138	-6.8569589	Portugal
+ALPI	Guarda	234	São Romão	40.3784704	-7.7652865	Portugal
+ALPI	Huelva	517	Cortegana	37.909276	-6.820648	Andalucía
+ALPI	Huelva	518	Paymogo	37.73999	-7.34499	Andalucía
+ALPI	Huelva	519	Alosno	37.54861	-7.1147	Andalucía
+ALPI	Huelva	520	Valverde del Camino	37.57511	-6.75432	Andalucía
+ALPI	Huelva	521	Villablanca	37.30239	-7.34413	Andalucía
+ALPI	Huelva	522	Almonte	37.2647	-6.51667	Andalucía
+ALPI	Huesca	605	Ansó	42.75785	-0.82947	Aragón
+ALPI	Huesca	606	Borau	42.65858	-0.58846	Aragón
+ALPI	Huesca	607	Torla	42.6285882	-0.1142603	Aragón
+ALPI	Huesca	608	Bielsa	42.63347	0.21858	Aragón
+ALPI	Huesca	609	Benasque	42.60528	0.52305	Aragón
+ALPI	Huesca	610	Loarre	42.31432	-0.62588	Aragón
+ALPI	Huesca	611	Alquézar	42.17268	0.02586	Aragón
+ALPI	Huesca	612	La Pobla de Roda	42.3026861	0.4719676	Aragón
+ALPI	Huesca	613	Benabarre	42.10586	0.48211	Aragón
+ALPI	Huesca	614	Sant Esteve de Llitera	41.905851	0.3226613	Aragón
+ALPI	Huesca	615	Fonz	42.01015	0.25878	Aragón
+ALPI	Huesca	616	Peralta de Alcofea	41.9312492	-0.0701156	Aragón
+ALPI	Jaén	508	Marmolejo	38.074265	-4.186553	Andalucía
+ALPI	Jaén	509	Las Navas de Tolosa	38.2861827	-3.5888651	Andalucía
+ALPI	Jaén	510	La Puerta de Segura	38.35293	-2.73956	Andalucía
+ALPI	Jaén	511	Mengíbar	37.9704351	-3.8170032	Andalucía
+ALPI	Jaén	512	Baeza	37.99384	-3.47103	Andalucía
+ALPI	Jaén	513	Torre del Campo	37.7702055	-3.8972315	Andalucía
+ALPI	Jaén	514	Pegalajar	37.74008	-3.64946	Andalucía
+ALPI	Jaén	515	Quesada	37.842982	-3.066921	Andalucía
+ALPI	Jaén	516	Castillo de Locubín	37.52858	-3.9422	Andalucía
+ALPI	La Coruña	100	Sismundi	43.707169	-7.869936	Galicia
+ALPI	La Coruña	101	Valdoviño	43.6097586	-8.1615755	Galicia
+ALPI	La Coruña	102	Miño	43.3491082	-8.2112468	Galicia
+ALPI	La Coruña	103	Santa María de Oleiros	43.3358943	-8.3242525	Galicia
+ALPI	La Coruña	104	Abegondo	43.21667	-8.28333	Galicia
+ALPI	La Coruña	105	Aranga	43.23469	-8.01705	Galicia
+ALPI	La Coruña	106	Baio	43.1556866	-8.9874647	Galicia
+ALPI	La Coruña	107	Carballo	43.2139404	-8.7068809	Galicia
+ALPI	La Coruña	108	Corcubión	42.94414	-9.1926	Galicia
+ALPI	La Coruña	109	Santa Comba	43.03306	-8.80925	Galicia
+ALPI	La Coruña	110	Ordes	43.07654	-8.409	Galicia
+ALPI	La Coruña	111	Boimorto	43	-8.13333	Galicia
+ALPI	La Coruña	112	A Lavacolla	42.8999424	-8.4555393	Galicia
+ALPI	La Coruña	112b	Muros	42.7773596	-9.0758357	Galicia
+ALPI	La Coruña	113	Rois	42.76295	-8.70528	Galicia
+ALPI	Leiria	255	Vieira	39.8522913	-8.978401	Portugal
+ALPI	Leiria	256	Pataias	39.66978	-8.9958	Portugal
+ALPI	Leiria	257	Mendiga	39.4984367	-8.8658441	Portugal
+ALPI	Leiria	258	Atouguia da Baleia	39.33814	-9.3263	Portugal
+ALPI	León	324	Puente de Rey	42.6288281	-6.8010467	Castilla León
+ALPI	León	325	Lillo de Bierzo	42.7820112	-6.619103	Castilla León
+ALPI	León	326	Páramo del Sil	42.82449	-6.50268	Castilla León
+ALPI	León	327	Omañón	42.8054426	-6.1164141	Castilla León
+ALPI	León	328	Torrebarrio	43.0070455	-5.9980654	Castilla León
+ALPI	León	329	Folledo	42.8965414	-5.7258239	Castilla León
+ALPI	León	330	Pontedo	42.9742532	-5.5692179	Castilla León
+ALPI	León	331	Cofiñal	43.0307095	-5.2704931	Castilla León
+ALPI	León	332	Pío	43.123242	-5.049119	Castilla León
+ALPI	León	333	Castroquilame	42.423368	-6.7527347	Castilla León
+ALPI	León	334	Lucillo	42.4093434	-6.3075938	Castilla León
+ALPI	León	335	Laguna Dalga	42.33192	-5.7522	Castilla León
+ALPI	León	336	Calzada del Coto	42.38613	-5.07809	Castilla León
+ALPI	Lérida	708	Senet	42.5575127	0.7503105	Cataluña
+ALPI	Lérida	709	València d'Aneu	42.6337539	1.1054178	Cataluña
+ALPI	Lérida	710	Pont de Suert	42.4086228	0.7369516	Cataluña
+ALPI	Lérida	711	Rialb	42.445833	1.135278	Cataluña
+ALPI	Lérida	712	Senterada	42.32549	0.93641	Cataluña
+ALPI	Lérida	713	Alàs	42.3515554	1.5046956	Cataluña
+ALPI	Lérida	714	Guàrdia (de Nogera)	42.0915865	0.8763107	Cataluña
+ALPI	Lérida	715	Organyà	42.2105072	1.3260305	Cataluña
+ALPI	Lérida	716	Bassella	41.991667	1.284893	Cataluña
+ALPI	Lérida	717	Castelló de Farfanya	41.81667	0.73333	Cataluña
+ALPI	Lérida	718	Bell-lloc d'Urgell	41.6314225	0.7618064	Cataluña
+ALPI	Lérida	719	Aspa	41.49472	0.67277	Cataluña
+ALPI	Lérida	720	Mont-roig de Sió	41.7494084	1.1796338	Cataluña
+ALPI	Lérida	721	Clariana	41.9334515	1.6234298	Cataluña
+ALPI	Lisboa	272	Sobreiro	38.9609639	-9.3732204	Portugal
+ALPI	Lisboa	273	Povos	38.96686	-8.98503	Portugal
+ALPI	Lisboa	274	Almargem	38.84485	-9.27315	Portugal
+ALPI	Lisboa	275	Alcabideche	38.7397389	-9.4563905	Portugal
+ALPI	Logroño	433	San Millán de la Cogolla	42.3285854	-2.8671631	La Rioja
+ALPI	Logroño	434	Pradejón	42.33458	-2.06904	La Rioja
+ALPI	Lugo	114	Covas	43.6754906	-7.6310527	Galicia
+ALPI	Lugo	115	Muras	43.46685	-7.72383	Galicia
+ALPI	Lugo	116	Ferreira do Valadouro	43.5525822	-7.4444295	Galicia
+ALPI	Lugo	117	Devesa	43.555523	-7.137016	Galicia
+ALPI	Lugo	118	Guitiriz	43.18169	-7.89656	Galicia
+ALPI	Lugo	119	Cospeito	43.213851	-7.569555	Galicia
+ALPI	Lugo	120	Neiro	43.3468719	-7.1817637	Galicia
+ALPI	Lugo	121	Palas de Rei	42.8744952	-7.8859859	Galicia
+ALPI	Lugo	122	Navia de Suarna	42.9623102	-7.0957353	Galicia
+ALPI	Lugo	123	Meixente	42.7867463	-7.4903761	Galicia
+ALPI	Lugo	124	Pedrafita do Cebreiro	42.7270082	-7.0242677	Galicia
+ALPI	Lugo	125	Chantada	42.60876	-7.77115	Galicia
+ALPI	Lugo	126	Sober	42.46127	-7.5864	Galicia
+ALPI	Lugo	127	San Clodio	42.4685712	-7.305227	Galicia
+ALPI	Madrid	454	Cadalso de los Vidrios	40.30067	-4.43348	Madrid
+ALPI	Madrid	455	Rascafría	40.90407	-3.87898	Madrid
+ALPI	Madrid	456	Valdepiélagos	40.75842	-3.46163	Madrid
+ALPI	Madrid	457	Valdelaguna	40.1606982	-3.375564	Madrid
+ALPI	Málaga	536	Cuevas del Becerro	36.87537	-5.04488	Andalucía
+ALPI	Málaga	537	Peñarrubia	36.9499982	-4.9034139	Andalucía
+ALPI	Málaga	538	Cuevas de San Marcos	37.26666	-4.41432	Andalucía
+ALPI	Málaga	539	Parauta	36.65629	-5.12916	Andalucía
+ALPI	Málaga	540	Manilva	36.3765727	-5.2601312	Andalucía
+ALPI	Málaga	541	Alhaurín el Grande	36.643	-4.68728	Andalucía
+ALPI	Málaga	542	Olías	36.770623	-4.3204855	Andalucía
+ALPI	Málaga	543	Frigiliana	36.7898824	-3.9014477	Andalucía
+ALPI	Murcia	561	Hornico	38.0203586	-2.2424423	Murcia
+ALPI	Murcia	562	La Pinilla de Caravaca	38.02968	-1.8792	Murcia
+ALPI	Murcia	563	Fuente del Pino	38.5408714	-1.2964187	Murcia
+ALPI	Murcia	564	La Paca	37.8716843	-1.8407432	Murcia
+ALPI	Murcia	565	Ricote	38.1540264	-1.3743187	Murcia
+ALPI	Murcia	566	Abanilla	38.20537	-1.04153	Murcia
+ALPI	Murcia	567	Tiñosa	37.9728459	-1.2406946	Murcia
+ALPI	Murcia	568	Purias	37.5873498	-1.6654299	Murcia
+ALPI	Murcia	570	Cabo de Palos	37.6329119	-0.7026825	Murcia
+ALPI	Navarra	600	Goñi	42.85167	-1.90358	Navarra
+ALPI	Navarra	601	Orísoain	42.60122	-1.60403	Navarra
+ALPI	Navarra	602	Arguedas	42.17759	-1.59719	Navarra
+ALPI	Navarra	603	Uscarrés	42.7749366	-1.0939985	Navarra
+ALPI	Navarra	604	Izalzu	42.9135242	-1.0567294	Navarra
+ALPI	Orense	141	O Irixo	43.44762	-7.13972	Galicia
+ALPI	Orense	142	Vilamarín	42.46488	-7.89119	Galicia
+ALPI	Orense	143	A Arnoia	42.2573042	-8.1621241	Galicia
+ALPI	Orense	144	Maceda	42.26972	-7.65052	Galicia
+ALPI	Orense	145	Celeiros	42.2572343	-7.1152553	Galicia
+ALPI	Orense	146	O Bolo	42.290826	-7.1804145	Galicia
+ALPI	Orense	147	Rubiá	42.4484562	-6.9550313	Galicia
+ALPI	Orense	148	Rairiz de Veiga	42.08364	-7.83503	Galicia
+ALPI	Orense	149	A Gudiña	42.0585916	-7.1580148	Galicia
+ALPI	Orense	150	Entrimo	41.93297	-8.11725	Galicia
+ALPI	Orense	151	Oímbra	41.8877564	-7.4786068	Galicia
+ALPI	Palencia	412	Cardaño de Abajo	42.38669	-2.71881	Castilla León
+ALPI	Palencia	413	Brañosera	42.9362	-4.30833	Castilla León
+ALPI	Palencia	414	Acera de la Vega	43.073	-4.59247	Castilla León
+ALPI	Palencia	415	Calzada de los Molinos	42.32724	-4.65293	Castilla León
+ALPI	Palencia	416	Santa Cecilia del Alcor	41.93227	-4.65546	Castilla León
+ALPI	Palencia	417	Villaconancio	41.87174	-4.22379	Castilla León
+ALPI	Pontevedra	128	Agolada	42.7617724	-8.0283003	Galicia
+ALPI	Pontevedra	129	Bandeira	42.729762	-8.3131781	Galicia
+ALPI	Pontevedra	130	Cuntis	42.632649	-8.563431	Galicia
+ALPI	Pontevedra	131	Vilanova de Arousa	42.56667	-8.83333	Galicia
+ALPI	Pontevedra	132	Meaño	42.44661	-8.78122	Galicia
+ALPI	Pontevedra	133	Cerdedo	42.5329369	-8.3945697	Galicia
+ALPI	Pontevedra	134	Bueu	42.3252212	-8.8010899	Galicia
+ALPI	Pontevedra	135	Fornelos de Montes	42.34126	-8.45291	Galicia
+ALPI	Pontevedra	136	Nigrán	42.14153	-8.80656	Galicia
+ALPI	Pontevedra	137	Ponteareas	42.17476	-8.50398	Galicia
+ALPI	Pontevedra	138	Arbo	42.11667	-8.31667	Galicia
+ALPI	Pontevedra	139	Tui	42.04713	-8.64435	Galicia
+ALPI	Pontevedra	140	O Rosal	41.93536	-8.83677	Galicia
+ALPI	Portalegre	266	Montalvão	39.5954955	-7.5458519	Portugal
+ALPI	Portalegre	267	Belver de Gavião	39.4950484	-7.9634933	Portugal
+ALPI	Portalegre	268	Vale de Açor	39.2427338	-7.9814881	Portugal
+ALPI	Portalegre	269	Reguengo	39.29801	-7.39234	Portugal
+ALPI	Portalegre	270	Sousel	38.9668729	-7.7485235	Portugal
+ALPI	Portalegre	271	Campo Maior	39.01774	-7.06497	Portugal
+ALPI	Porto	212	Vila do Conde	41.35481	-8.7434	Portugal
+ALPI	Porto	213	Santo Tirso	41.3411186	-8.517016	Portugal
+ALPI	Porto	214	Nevogilde	41.2561869	-8.5999507	Portugal
+ALPI	Porto	215	Gondar	41.2534652	-8.0983368	Portugal
+ALPI	Porto	216	Paço de Rei	41.126208	-8.5993274	Portugal
+ALPI	Rosselló	701	Formiguera	42.6226017	1.9224565	Francia
+ALPI	Rosselló	702	Taurinyá	42.5540567	2.4040644	Francia
+ALPI	Rosselló	703	Salses	42.836322	2.918662	Fancia
+ALPI	Rosselló	704	Cabestany	42.68132	2.94122	Francia
+ALPI	Rosselló	705	Llo	42.4357791	2.0194794	Francia
+ALPI	Rosselló	706	Arles de Tec	42.4530869	2.5525439	Francia
+ALPI	Rosselló	707	Banyuls	42.56567	2.86667	Francia
+ALPI	Salamanca	349	Villarino de los Aires	41.27102	-6.46847	Castilla León
+ALPI	Salamanca	350	Gejuelo del Barro	41.07633	-6.12332	Castilla León
+ALPI	Salamanca	351	Campo de Peñaranda	40.9844244	-5.2618841	Castilla León
+ALPI	Salamanca	352	Hinojosa del Duero	41.02201	-6.79768	Castilla León
+ALPI	Salamanca	353	Retortillo	40.80132	-6.35951	Castilla León
+ALPI	Salamanca	354	Aldea del Obispo	40.70677	-6.79253	Castilla León
+ALPI	Salamanca	355	Serradilla del Arroyo	40.52133	-6.36008	Castilla León
+ALPI	Salamanca	356	Linares de Riofrío	40.5803242	-5.9236229	Castilla León
+ALPI	Salamanca	357	Fuenteguinaldo	40.42876	-6.67528	Castilla León
+ALPI	Salamanca	358	El Payo	40.2870033	-6.7319208	Castilla León
+ALPI	Salamanca	359	Valdefuentes de Sangusín	40.46578	-5.83286	Castilla León
+ALPI	Santarém	259	Espite	39.7629386	-8.6410581	Portugal
+ALPI	Santarém	260	Ferreira do Zêzere	39.69406	-8.29213	Portugal
+ALPI	Santarém	261	Lapas	39.494167	-8.554167	Portugal
+ALPI	Santarém	262	Rio Maior	39.33291	-8.93934	Portugal
+ALPI	Santarém	263	Cartaxo	39.16022	-8.78741	Portugal
+ALPI	Santarém	264	Almeirim	39.20903	-8.61643	Portugal
+ALPI	Santarém	265	Coruche	38.95955	-8.52524	Portugal
+ALPI	Segovia	439	Lastras de Cuéllar	41.29762	-4.1067	Castilla León
+ALPI	Segovia	440	Barbolla	41.32567	-3.67361	Castilla León
+ALPI	Setúbal	276	Moita	38.65078	-8.99038	Portugal
+ALPI	Setúbal	277	Santana	38.4661175	-9.0683851	Portugal
+ALPI	Setúbal	278	Grândola	38.17718	-8.56675	Portugal
+ALPI	Sevilla	523	Castillo de las Guardas	37.69314	-6.31503	Andalucía
+ALPI	Sevilla	524	Constantina	37.86667	-5.61667	Andalucía
+ALPI	Sevilla	525	Cantillana	37.608692	-5.825805	Andalucía
+ALPI	Sevilla	526	Bormujos	37.37247	-6.07184	Andalucía
+ALPI	Sevilla	527	Fuentes de Andalucía	37.46409	-5.34615	Andalucía
+ALPI	Sevilla	528	Gilena	37.2515	-4.91442	Andalucía
+ALPI	Sevilla	529	El Coronil	37.07955	-5.6341	Andalucía
+ALPI	Sevilla	530	Saucejo	37.070065	-5.096211	Andalucía
+ALPI	Sevilla	531	Lebrija	36.916667	-6.066667	Andalucía
+ALPI	Soria	441	Alcubilla del Marqués	41.5671947	-3.1360917	Castilla León
+ALPI	Soria	442	Vinuesa	41.911629	-2.762914	Castilla León
+ALPI	Soria	443	Yanguas	42.10171	-2.33986	Castilla León
+ALPI	Soria	444	Muro de Ágreda	41.8314	-1.984799	Castilla León
+ALPI	Soria	445	Tardajos de Duero	41.6685696	-2.4194356	Castilla León
+ALPI	Soria	446	Cihuela	41.40721	-1.99989	Castilla León
+ALPI	Soria	447	Caltojar	41.40226	-2.76436	Castilla León
+ALPI	Soria	448	Layna	41.0990182	-2.3085474	Castilla León
+ALPI	Tarragona	741	Santa Coloma de Queralt	41.53333	1.38333	Cataluña
+ALPI	Tarragona	742	Vimbodí	41.40069	1.05056	Cataluña
+ALPI	Tarragona	743	Ascó	41.1818269	0.5622543	Cataluña
+ALPI	Tarragona	744	Falset	41.14576	0.81979	Cataluña
+ALPI	Tarragona	745	Vila-seca de Solcina	41.11118	1.14764	Cataluña
+ALPI	Tarragona	746	Roda de Berà	41.185372	1.456689	Cataluña
+ALPI	Tarragona	747	Bot	41.00916	0.38392	Cataluña
+ALPI	Tarragona	748	La Ampolla (?)	40.806317	0.6944994	Cataluña
+ALPI	Tarragona	749	Amposta	40.742088	0.5616	Cataluña
+ALPI	Teruel	630	Blancas	40.81392	-1.48208	Aragón
+ALPI	Teruel	631	Segura de los Baños	40.94088	-0.95111	Aragón
+ALPI	Teruel	632	Alloza	40.96942	-0.52941	Aragón
+ALPI	Teruel	633	Valljunquera	40.9525	0.02575	Aragón
+ALPI	Teruel	634	Aguaviva	40.8226471	-0.2017215	Aragón
+ALPI	Teruel	635	Bronchales	40.50906	-1.58894	Aragón
+ALPI	Teruel	636	Alfambra	40.54638	-1.03314	Aragón
+ALPI	Teruel	637	Villarluengo	40.64842	-0.53066	Aragón
+ALPI	Teruel	638	La Puebla de Valverde	40.2253568	-0.9326521	Aragón
+ALPI	Teruel	639	Mosqueruela	40.36133	-0.4489	Aragón
+ALPI	Toledo	463	Lagartera	39.90557	-5.20143	Castilla La Mancha
+ALPI	Toledo	464	Cebolla	39.94897	-4.57175	Castilla La Mancha
+ALPI	Toledo	465	Camarenilla	40.01672	-4.07624	Castilla La Mancha
+ALPI	Toledo	466	Sevilleja de la Jara	39.57488	-4.96387	Castilla La Mancha
+ALPI	Toledo	467	Navahermosa	39.63526	-4.47012	Castilla La Mancha
+ALPI	Toledo	468	Los Yébenes	39.58158	-3.87058	Castilla La Mancha
+ALPI	Toledo	469	El Romeral	39.7064431	-3.4381107	Castilla La Mancha
+ALPI	Valencia	763	Ademuz	40.06139	-1.28677	Valencia
+ALPI	Valencia	764	Tuéjar	39.76667	-1.03333	Valencia
+ALPI	Valencia	765	Casinos	39.698995	-0.704725	Valencia
+ALPI	Valencia	766	Marines	39.6754075	-0.6343755	Valencia
+ALPI	Valencia	767	Caudete de las Fuentes	39.55965	-1.27853	Valencia
+ALPI	Valencia	768	Pedralba	39.6	-0.71667	Valencia
+ALPI	Valencia	770	Quart de Poblet	39.48139	-0.43937	Valencia
+ALPI	Valencia	771	Godelleta	39.41667	-0.68333	Valencia
+ALPI	Valencia	772	Turís	39.38333	-0.7	Valencia
+ALPI	Valencia	773	Dos Aguas	39.28333	-0.8	Valencia
+ALPI	Valencia	774	Polinyà de Xúquer	39.1968536	-0.3719556	Valencia
+ALPI	Valencia	775	Massalavés	39.1447817	-0.5276812	Valencia
+ALPI	Valencia	776	Teresa de Cofrentes	39.1045105	-1.0554673	Valencia
+ALPI	Valencia	778	Llanera de Ranes	38.99507	-0.57534	Valencia
+ALPI	Valencia	779	Beniopa	38.9713546	-0.1982143	Valencia
+ALPI	Valencia	780	Moixent	38.8749279	-0.7608608	Valencia
+ALPI	Valladolid	435	Villavicencio de los Caballeros	42.05893	-5.23566	Castilla León
+ALPI	Valladolid	436	San Cebrián de Mazote	41.68022	-5.14847	Castilla León
+ALPI	Valladolid	437	Langayo	41.56986	-4.19866	Castilla León
+ALPI	Valladolid	438	Pedrajas de San Esteban	41.34145	-4.58225	Castilla León
+ALPI	Viana do Castelo	200	Paderne	42.0896761	-8.2851236	Portugal
+ALPI	Viana do Castelo	201	Insalde	41.9473662	-8.5543834	Portugal
+ALPI	Viana do Castelo	202	Moledo	41.8490067	-8.8652723	Portugal
+ALPI	Viana do Castelo	203	Portuzelo	41.702528	-8.8061583	Portugal
+ALPI	Viana do Castelo	204	Tamente	41.8164671	-8.3419003	Portugal
+ALPI	Vila Real	217	Montalegre	41.7710762	-7.9627936	Portugal
+ALPI	Vila Real	218	Carrazedo de Montenegro	41.5618593	-7.4938998	Portugal
+ALPI	Vila Real	219	Vilarinho de Samardã	41.3682123	-7.9577985	Portugal
+ALPI	Viseu	235	São João da Pesqueira	41.14805	-7.40489	Portugal
+ALPI	Viseu	236	Moimenta da Beira	40.98383	-7.61765	Portugal
+ALPI	Viseu	237	Vale de Matos	40.9061586	-8.083763	Portugal
+ALPI	Viseu	238	Conlela	40.7850612	-8.3916724	Portugal
+ALPI	Viseu	239	Castendo	40.6718172	-7.6901615	Portugal
+ALPI	Viseu	240	Eiras de Castelões	40.5486858	-8.1620963	Portugal
+ALPI	Vizcaya	428	Beci	43.2344695	-3.1874901	País Vasco
+ALPI	Zamora	337	San Ciprián	42.1727576	-6.6614142	Castilla León
+ALPI	Zamora	338	San Martín de Castañeda	42.1357814	-6.7297707	Castilla León
+ALPI	Zamora	339	Cubo de Benavente	42.1249	-6.16342	Castilla León
+ALPI	Zamora	340	Padornelo	42.0331324	-6.8402888	Castilla León
+ALPI	Zamora	341	Hermisende	41.96898	-6.89616	Castilla León
+ALPI	Zamora	342	Otero de Bodas	41.93868	-6.15024	Castilla León
+ALPI	Zamora	343	Mahide	41.86917	-6.37784	Castilla León
+ALPI	Zamora	344	Villafáfila	41.84692	-5.61527	Castilla León
+ALPI	Zamora	345	Villarino tras la Sierra	41.6751625	-6.4925382	Castilla León
+ALPI	Zamora	346	Losacio de Alba	41.7111494	-6.0417923	Castilla León
+ALPI	Zamora	347	Fariza	41.41667	-6.26667	Castilla León
+ALPI	Zamora	348	El Pego	41.3342574	-5.4768216	Castilla León
+ALPI	Zaragoza	618	Sos del Rey	42.432131	-1.314682	Aragón
+ALPI	Zaragoza	619	Farasdués	42.2235407	-1.1038697	Aragón
+ALPI	Zaragoza	620	Boquiñeni	41.84804	-1.25246	Aragón
+ALPI	Zaragoza	621	Monegrillo	41.63856	-0.4157	Aragón
+ALPI	Zaragoza	622	Tierga	41.607358	-1.60642	Aragón
+ALPI	Zaragoza	623	Cadrete	41.55575	-0.96013	Aragón
+ALPI	Zaragoza	624	Campillo de Aragón	41.12648	-1.84393	Aragón
+ALPI	Zaragoza	625	Codos	41.29266	-1.37425	Aragón
+ALPI	Zaragoza	626	Letux	41.25512	-0.80269	Aragón
+ALPI	Zaragoza	627	Chiprana	41.26317	-0.12741	Aragón
+ALPI	Zaragoza	628	Mequinensa (Mequinenza)	41.37211	0.30169	Aragón
+ALPI	Zaragoza	629	Maella	41.12251	0.13926	Aragón
+PALDC	Alicante	A179	Pego	38.84305	-0.11707	Valencia
+PALDC	Alicante	A180	Xàbia	38.7892	0.1631	Valencia
+PALDC	Alicante	A181	Muro del Comtat	38.7804799	-0.5084028	Valencia
+PALDC	Alicante	A182	Tàrbena	38.695	-0.100833	Valencia
+PALDC	Alicante	A183	Beneixama	38.7	-0.76667	Valencia
+PALDC	Alicante	A184	Altea	38.59546	-0.07025	Valencia
+PALDC	Alicante	A185	Torre de les Maçanes	38.606667	-0.419167	Valencia
+PALDC	Alicante	A186	Novelda	38.38479	-0.76773	Valencia
+PALDC	Alicante	A187	Pinós de Monòver	38.4230817	-1.1689451	Valencia
+PALDC	Alicante	A188	Alicante	38.3453	-0.4831	Valencia
+PALDC	Alicante	A189	Crevillent	38.24994	-0.80975	Valencia
+PALDC	Alicante	A190	Guardamar	38.1014955	-0.6503244	Valencia
+PALDC	Andorra	AD088	Ordino	42.555	1.5331	Andorra
+PALDC	Andorra	AD092	Santa Coloma d’Andorra	42.4939	1.4977	Andorra
+PALDC	Baleares	IB070	Ciutadella	40.00112	3.84144	Baleares
+PALDC	Baleares	IB071	Migjorn Gran	39.94657	4.05121	Baleares
+PALDC	Baleares	IB072	Maó	39.889444	4.264167	Baleares
+PALDC	Baleares	IB073	Pollença	39.882587	3.015104	Baleares
+PALDC	Baleares	IB074	Sóller	39.79759	2.69637	Baleares
+PALDC	Baleares	IB075	Alaró	39.70441	2.79181	Baleares
+PALDC	Baleares	IB076	Sineu	39.64254	3.01034	Baleares
+PALDC	Baleares	IB077	Son Servera	39.62073	3.36008	Baleares
+PALDC	Baleares	IB078	Montuïri	39.56742	2.98189	Baleares
+PALDC	Baleares	IB079	Palma	39.569443	2.649993	Baleares
+PALDC	Baleares	IB080	Llucmajor	39.39754	2.82395	Baleares
+PALDC	Baleares	IB081	Felanitx	39.4692	3.1481	Baleares
+PALDC	Baleares	IB082	Santanyí	39.35461	3.12907	Baleares
+PALDC	Baleares	IB083	Sant Josep de sa Talaia	38.866912	1.334839	Baleares
+PALDC	Baleares	IB084	Eivissa	38.908393	1.432146	Baleares
+PALDC	Barcelona	B024	Castellar de n'Hug	42.2827603	2.0164382	Cataluña
+PALDC	Barcelona	B033	Avià	42.06667	1.85	Cataluña
+PALDC	Barcelona	B034	Santa Maria de Corcó	42.03333	2.36667	Cataluña
+PALDC	Barcelona	B038	Prats de Lluçanés	41.705442	1.54146	Cataluña
+PALDC	Barcelona	B039	Santa Eulàlia de Riuprimer	41.9106787	2.1851344	Cataluña
+PALDC	Barcelona	B041	Cardona	41.9138651	1.6766443	Cataluña
+PALDC	Barcelona	B044	Balsareny	41.865833	1.876944	Cataluña
+PALDC	Barcelona	B045	Moià	41.81112	2.09839	Cataluña
+PALDC	Barcelona	B046	Campins	41.71667	2.46667	Cataluña
+PALDC	Barcelona	B048	Castellfollit de Ruibregós	41.7750073	1.4376007	Cataluña
+PALDC	Barcelona	B049	Calaf	41.73289	1.51375	Cataluña
+PALDC	Barcelona	B050	Cànoves	41.68333	2.35	Cataluña
+PALDC	Barcelona	B051	Sant Salvador de Guardiola	41.68333	1.76667	Cataluña
+PALDC	Barcelona	B052	Tordera	41.69914	2.71888	Cataluña
+PALDC	Barcelona	B054	Vacarisses	41.60633	1.918199	Cataluña
+PALDC	Barcelona	B055	Sentmenat	41.60862	2.13532	Cataluña
+PALDC	Barcelona	B056	Sant Andreu de Llavaneres	41.56667	2.48333	Cataluña
+PALDC	Barcelona	B059	Sant Jaume Sesoliveres	40.571839	0.515939	Cataluña
+PALDC	Barcelona	B060	Barberá del Vallès	41.474202	2.085228	Cataluña
+PALDC	Barcelona	B061	Cervelló	41.39587	1.95917	Cataluña
+PALDC	Barcelona	B062	Barcelona	41.3947688	2.0787285	Cataluña
+PALDC	Barcelona	B063	Sant Boi de Llobregat	41.34357	2.03659	Cataluña
+PALDC	Barcelona	B067	Sant Pere de Ribes	38.516667	-0.198056	Cataluña
+PALDC	Barcelona	B133	Ametlla de Mar	41.5	2.5	Cataluña
+PALDC	Barcelona	B135	Horta de Sant Joan	40.95	0.31667	Cataluña
+PALDC	Castellón	CS142	Sorita	40.728333	-0.166111	Valencia
+PALDC	Castellón	CS144	Xiva de Morella	40.6592011	-0.126491	Valencia
+PALDC	Castellón	CS146	Rossell	40.61792	0.22133	Valencia
+PALDC	Castellón	CS147	Vinaròs	40.471026	0.474684	Valencia
+PALDC	Castellón	CS148	Sant Mateu del Maestrat	41.474202	2.085228	Valencia
+PALDC	Castellón	CS149	Vilafranca del Maestrat	40.4280425	-0.2603137	Valencia
+PALDC	Castellón	CS150	Albocàsser	40.35	0.03333	Valencia
+PALDC	Castellón	CS151	Alcalà de Xivert	40.3	0.23333	Valencia
+PALDC	Castellón	CS152	Atzeneta del Maestrat	40.2161461	-0.176703	Valencia
+PALDC	Castellón	CS153	Cabanes de l’Arc	40.1655529	0.0147919	Valencia
+PALDC	Castellón	CS154	Castelló de la Plana	39.96476	-0.02492	Valencia
+PALDC	Castellón	CS155	Borriana	39.8867878	-0.0954933	Valencia
+PALDC	Castellón	CS156	Alfondeguilla	39.8377	-0.269	Valencia
+PALDC	Castellón	CS157	Llosa de la Plana	39.96476	-0.02492	Valencia
+PALDC	Francia	F001	Salses	42.8328	2.9189	Francia
+PALDC	Francia	F002	Estagell	42.7722	2.6989	Francia
+PALDC	Francia	F003	Perpinyà	42.6975	2.8947	Francia
+PALDC	Francia	F004	Mosset	42.6681	2.3483	Francia
+PALDC	Francia	F005	Sant Cebrià de Rosselló	42.6181	3.0064	Francia
+PALDC	Francia	F006	Jóc	42.6175	2.5253	Francia
+PALDC	Francia	F007	Formiguera	42.6144	2.1017	Francia
+PALDC	Francia	F008	Montoriol	42.5758	2.7244	Francia
+PALDC	Francia	F009	Cornellá de Conflent	42.5664	2.3806	Francia
+PALDC	Francia	F010	Portè	42.5483	1.8317	Francia
+PALDC	Francia	F011	Prats de Balaguer	42.5128	2.1808	Francia
+PALDC	Francia	F013	Ceret	42.4881	2.7514	Francia
+PALDC	Francia	F014	Prats de Molló	42.4	2.5	Francia
+PALDC	Gerona	GI012	Llivia	42.463929	1.979071	Cataluña
+PALDC	Gerona	GI015	Meranges	42.44518	1.78777	Cataluña
+PALDC	Gerona	GI016	Maçanet de Cabrenys	42.38597	2.74806	Cataluña
+PALDC	Gerona	GI017	LLança	42.36241	3.15213	Cataluña
+PALDC	Gerona	GI018	Vilallonga de Ter	42.3311513	2.3109081	Cataluña
+PALDC	Gerona	GI019	Alp	42.37256	1.88699	Cataluña
+PALDC	Gerona	GI020	Queralbs	42.348716	2.162659	Cataluña
+PALDC	Gerona	GI021	Planoles	42.31667	2.1	Cataluña
+PALDC	Gerona	GI022	Bassegoda	42.311616	2.64535	Cataluña
+PALDC	Gerona	GI023	Oix	42.3	2.5	Cataluña
+PALDC	Gerona	GI025	Roses	42.248151	3.196926	Cataluña
+PALDC	Gerona	GI026	Lledó d’Empordà	42.249444	2.814444	Cataluña
+PALDC	Gerona	GI027	Gósol	42.23697	1.6601	Cataluña
+PALDC	Gerona	GI028	Campdevànol	42.225833	2.169444	Cataluña
+PALDC	Gerona	GI029	Sant Privat d’en Bas	40.571839	0.515939	Cataluña
+PALDC	Gerona	GI030	Les Lloses	41.851114	2.224689	Cataluña
+PALDC	Gerona	GI031	Banyoles	42.11667	2.76667	Cataluña
+PALDC	Gerona	GI032	Camallera	42.1	3	Cataluña
+PALDC	Gerona	GI035	Girona	41.987346	2.826608	Cataluña
+PALDC	Gerona	GI036	Begur	41.95	3.21667	Cataluña
+PALDC	Gerona	GI037	Cruïlles	41.95	3.01667	Cataluña
+PALDC	Gerona	GI042	Palamós	41.861444	3.119775	Cataluña
+PALDC	Gerona	GI043	Llagostera	41.82688	2.89365	Cataluña
+PALDC	Gerona	GI047	Tossa de Mar	41.71667	2.93333	Cataluña
+PALDC	Huesca	HU087	Cerler	42.594722	0.539167	Aragón
+PALDC	Huesca	HU093	Paüls	42.471667	0.599444	Aragón
+PALDC	Huesca	HU094	Eressué	42.551094	0.483344	Aragón
+PALDC	Huesca	HU099	Sopeira	42.3161	0.7456	Aragón
+PALDC	Huesca	HU102	Tolba	42.114722	0.565	Aragón
+PALDC	Huesca	HU106	Estanya	42.032041	0.517474	Aragón
+PALDC	Huesca	HU108	Peralta de la Sal	41.9925	0.385556	Aragón
+PALDC	Huesca	HU115	Saidí	41.6	0.266667	Aragón
+PALDC	Huesca	HU118	Fraga	41.5207	0.3516	Aragón
+PALDC	Lérida	L040	Llobera de Solsonès	41.9502989	1.4703712	Cataluña
+PALDC	Lérida	L053	Freixenet de Segarra	41.6606949	1.3952453	Cataluña
+PALDC	Lérida	L086	Esterri d’Àneu	42.63	1.124444	Cataluña
+PALDC	Lérida	L089	Senet de Baravés	42.5575127	0.7514102	Cataluña
+PALDC	Lérida	L090	Taüll	42.5195	0.8486	Cataluña
+PALDC	Lérida	L091	Alins de Vallferrera	42.5488876	1.3160502	Cataluña
+PALDC	Lérida	L095	Sort	42.41319	1.13045	Cataluña
+PALDC	Lérida	L096	Bescarán	42.4	1.5	Cataluña
+PALDC	Lérida	L097	Arfa	42.330913	1.4144228	Cataluña
+PALDC	Lérida	L098	Sarroca de Bellera	42.3596003	0.878839	Cataluña
+PALDC	Huesca	HU100	la Pobla de Roda	41.97417	2.31284	Aragón
+PALDC	Lérida	L101	Palau de Noguera	42.1470112	0.8947319	Cataluña
+PALDC	Lérida	L103	Sant Llorenç de Morunys	39.56854	3.37228	Cataluña
+PALDC	Lérida	L104	Isona	42.119607	1.046599	Cataluña
+PALDC	Lérida	L105	Peramola	42.057801	1.267353	Cataluña
+PALDC	Lérida	L107	Áger	41.999751	0.762755	Cataluña
+PALDC	Lérida	L109	Sanaüja	41.876178	1.310542	Cataluña
+PALDC	Lérida	L110	Cubells	41.85062	0.959	Cataluña
+PALDC	Lérida	L111	Almenar	41.79604	0.56834	Cataluña
+PALDC	Lérida	L112	Agramunt	41.78686	1.09683	Cataluña
+PALDC	Lérida	L113	Linyola	41.7	0.91667	Cataluña
+PALDC	Lérida	L114	Cervera	40.45366	0.27659	Cataluña
+PALDC	Lérida	L116	Lleida	41.614118	0.62579	Cataluña
+PALDC	Lérida	L117	Arbeca	41.54153	0.92457	Cataluña
+PALDC	Lérida	L119	Granyena de les Garrigues	41.433153	0.6482627	Cataluña
+PALDC	Lérida	L120	Vinaixa	41.43333	0.98333	Cataluña
+PALDC	Tarragona	T057	Aguiló	41.5525	1.4194	Cataluña
+PALDC	Tarragona	T058	Santa Coloma de Queralt	41.53333	1.38333	Cataluña
+PALDC	Tarragona	T064	Sant Juame dels Domenys	38.43212	-0.38157	Cataluña
+PALDC	Tarragona	T065	La Febró	41.2775825	1.0018583	Cataluña
+PALDC	Tarragona	T066	Alió	41.29422	1.30585	Cataluña
+PALDC	Tarragona	T068	Tarragona	41.11667	1.25	Cataluña
+PALDC	Tarragona	T069	Cambrils	41.065689	1.050407	Cataluña
+PALDC	Tarragona	T121	Vimbodí	41.40069	1.05056	Cataluña
+PALDC	Tarragona	T123	Margalef de Montssant	41.2850002	0.7518995	Cataluña
+PALDC	Tarragona	T124	Riba-roja d’Ebre	39.498	-0.53608	Cataluña
+PALDC	Tarragona	T126	Torre de Fontaubella	41.1247266	0.8636419	Cataluña
+PALDC	Tarragona	T127	Marçá	41.12666	0.8008	Cataluña
+PALDC	Tarragona	T128	Vilalba dels Arcs	41.11667	0.41667	Cataluña
+PALDC	Tarragona	T129	Móra la Nova	41.1028167	0.6421691	Cataluña
+PALDC	Tarragona	T140	Roquetes	40.82063	0.502505	Cataluña
+PALDC	Tarragona	T141	Mas de Barberans	40.73333	0.36667	Cataluña
+PALDC	Tarragona	T143	Amposta	40.742088	0.5616	Cataluña
+PALDC	Tarragona	T145	Ulldecona	40.59734	0.44718	Cataluña
+PALDC	Teruel	TE130	Mazaleón	41.0498	0.1042	Aragón
+PALDC	Teruel	TE131	Valljunquera	40.9525	0.02575	Aragón
+PALDC	Teruel	TE132	Codoñera	40.933731	-0.0872378	Aragón
+PALDC	Teruel	TE134	Torrevelilla	40.902	-0.10977	Aragón
+PALDC	Teruel	TE136	Vall-de-roures	39.81747	-0.24419	Aragón
+PALDC	Teruel	TE137	Bellmunt de Mesquí	40.8742397	-0.0648338	Aragón
+PALDC	Teruel	TE138	Ginebrosa	40.86991	-0.13525	Aragón
+PALDC	Teruel	TE139	Aiguaviva de Bergantes	41.937187	2.760627	Aragón
+PALDC	Valencia	V158	Algímia de la Baronia	39.7526882	-0.503501	Valencia
+PALDC	Valencia	V159	Benifairó de les Valls	39.73333	-0.26667	Valencia
+PALDC	Valencia	V160	Casinos	39.698995	-0.704725	Valencia
+PALDC	Valencia	V161	Puig de Santa María	39.6000119	-0.3579705	Valencia
+PALDC	Valencia	V162	Vilamarxant	39.56916	-0.62453	Valencia
+PALDC	Valencia	V163	Valencia	39.4077643	-0.4315507	Valencia
+PALDC	Valencia	V164	Alfafar	39.41667	-0.38333	Valencia
+PALDC	Valencia	V165	Picassent	39.3635	-0.45949	Valencia
+PALDC	Valencia	V166	Torís	39.3899	-0.7105	Valencia
+PALDC	Valencia	V167	Sollana	39.28333	-0.36667	Valencia
+PALDC	Valencia	V168	Àlcúdia de Carlet	39.1976993	-0.5117039	Valencia
+PALDC	Valencia	V169	Albalat de la Ribera	39.2	-0.38333	Valencia
+PALDC	Valencia	V170	Alzira	39.15	-0.43333	Valencia
+PALDC	Valencia	V171	Alberic	39.11667	-0.51667	Valencia
+PALDC	Valencia	V172	Sallent de Xátiva	41.808889	1.889083	Valencia
+PALDC	Valencia	V173	Simat de Valldigna	39.0444441	-0.3149885	Valencia
+PALDC	Valencia	V174	Alqueria de la Comtessa	38.93333	-0.15	Valencia
+PALDC	Valencia	V175	Benigànim	38.95	-0.43333	Valencia
+PALDC	Valencia	V176	Montesa	38.9503	-0.652	Valencia
+PALDC	Valencia	V177	Font de la Figuera	38.8	-0.88333	Valencia
+PALDC	Valencia	V178	Ontinyent	38.82191	-0.60603	Valencia
+PALDC	Zaragoza	Z122	Mequinenza	41.37211	0.30169	Aragón
+PALDC	Zaragoza	Z125	Fabara de Matarraña	41.1769993	0.1649447	Aragón
