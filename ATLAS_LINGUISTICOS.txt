@@ -1,3 +1,4 @@
+atlas	id	poblacion	latitud	longitud	provincia	CCAA
 ADIM	M1	Mangirón	40.9640834	-3.587009	Madrid	Madrid
 ADIM	M2	Buitrago de Lozoya	40.9872881	-3.646177	Madrid	Madrid
 ADIM	M3	Lozoya	40.9555018	-3.7992945	Madrid	Madrid
