@@ -149,18 +149,18 @@ id	pregunta	ortografia	afi
 112	Llevar a cuestas	levar o lombo	leˈβaɹ o ˈlõmbo
 112	Dar volteretas	dar pinchacarneiros	ˈdaɹ pĩɲt͡ʃækaɾˈnẽjɾos̺
 112	Levadura	fermento	ɸoɾˈmẽnto
-112.1	Cadera	cadeira	kaˈðejɹa
-112.1	Guisantes	chícharos	ˈt͡ʃit͡ʃɐɾos
-112.1	Mariquita	xoaniña	ʃuɐ̃ˈnĩɲɐ
-112.1	Lagartija	cádego	ˈkaðexo
-112.1	Aguzanieves	lavandeira	laβãnˈdɛjɹɐ
-112.1	Jabalí	porco bravo	ˈpoɹko ˈβɾaβo
-112.1	Cuna	berce	ˈbɛɹsi̥
-112.1	Llevar a cuestas	levar ó lombo	leˈβaɹ ɔ ˈlõmbo
-112.1	Dar volteretas	dar tombos de gato	ˈdaɹ ˈtõmboz̪ ðe ˈɣ̊atu̥
-112.1	Levadura	fermento	ɸoɾˈmẽntu̥
-112.1	Mariquita	cascarrubia	kɐskaˈruβjɐ
-112.1	Lagartija	cádego	ˈkɐðexo
+112b	Cadera	cadeira	kaˈðejɹa
+112b	Guisantes	chícharos	ˈt͡ʃit͡ʃɐɾos
+112b	Mariquita	xoaniña	ʃuɐ̃ˈnĩɲɐ
+112b	Lagartija	cádego	ˈkaðexo
+112b	Aguzanieves	lavandeira	laβãnˈdɛjɹɐ
+112b	Jabalí	porco bravo	ˈpoɹko ˈβɾaβo
+112b	Cuna	berce	ˈbɛɹsi̥
+112b	Llevar a cuestas	levar ó lombo	leˈβaɹ ɔ ˈlõmbo
+112b	Dar volteretas	dar tombos de gato	ˈdaɹ ˈtõmboz̪ ðe ˈɣ̊atu̥
+112b	Levadura	fermento	ɸoɾˈmẽntu̥
+112b	Mariquita	cascarrubia	kɐskaˈruβjɐ
+112b	Lagartija	cádego	ˈkɐðexo
 113	Guisantes	chícharos	ˈt͡ʃit͡ʃaɾoʃ
 113	Mariquita	xoaniña	ʃuãˈnĩɲã
 113	Lagartija	NA	NA
