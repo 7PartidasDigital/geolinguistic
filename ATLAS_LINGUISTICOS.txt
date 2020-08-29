@@ -1314,7 +1314,6 @@ ALPI	799	Manacor	39.568749	3.21062	Baleares	Baleares
 ALPI	800	Son Servera	39.62073	3.36008	Baleares	Baleares
 ALPI	802	Ciutadella (Ciudadela)	40.00112	3.84144	Baleares	Baleares
 ALPI	803	Maó (Mahón)	39.889482	4.264116	Baleares	Baleares
-atlas	id	poblacion	latitud	longitud	provincia	CCAA
 PALDC	1	Salses	42.8328	2.9189	Francia	Francia
 PALDC	2	Estagell	42.7722	2.6989	Francia	Francia
 PALDC	3	Perpinyà	42.6975	2.8947	Francia	Francia
