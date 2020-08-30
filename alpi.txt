@@ -1831,10 +1831,10 @@ id	pregunta	ortografia	afi
 322	Mariquita	catalina	kataˈlina
 322	Lagartija	llargatesa	ʎaɾɣaˈtes̺a
 322	Aguzanieves	pisandera	pis̺anˈdeɾa
-322	Jabalí	h.abalín	haβaˈliŋ
+322	Jabalí	habalín	haβaˈliŋ
 322	Cadera	cadera	kaˈðeɾa
 322	Cuna	escanillu	eskaˈniʎu
-322	Llevar a cuestas	h.arriquín	hariˈkiŋ
+322	Llevar a cuestas	harriquín	hariˈkiŋ
 322	Dar volteretas	dar la güelta'l gatu	ˈdaɹ la ˈweltɑ l ˈɣatu
 322	Levadura	lavadura	laβɑˈuɾa
 323	Guisantes	arbellos	aɾˈβeʎos
