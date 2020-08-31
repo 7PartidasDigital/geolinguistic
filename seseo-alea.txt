@@ -159,7 +159,7 @@ J305	distinción
 J306	distinción
 J307	distinción
 J308	distinción
-J309	distinción
+J309	seseo
 J400	distinción
 J401	distinción
 J402	distinción
