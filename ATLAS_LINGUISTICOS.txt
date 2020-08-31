@@ -465,6 +465,7 @@ ALEA	GR203	Galera	37.7433215	-2.55073185	Granada	Andalucía
 ALEA	GR300	Montejícar	37.57189363	-3.50494602	Granada	Andalucía
 ALEA	GR301	Colomera	37.3742622	-3.71436522	Granada	Andalucía
 ALEA	GR302	Iznalloz	37.39201995	-3.53095401	Granada	Andalucía
+ALEA	GR303	Algarinejo	37.3259887	-4.1571535	Granada	Andalucía
 ALEA	GR304	Diezma	37.32111088	-3.33182232	Granada	Andalucía
 ALEA	GR305	Caparacena	37.2656799	-3.7151531	Granada	Andalucía
 ALEA	GR306	Brácana	37.2275285	-3.9504312	Granada	Andalucía
