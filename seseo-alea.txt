@@ -75,7 +75,6 @@ GR200	distinción
 GR201	distinción
 GR202	distinción
 GR203	distinción
-GR203	distinción
 GR300	distinción
 GR301	ceceo
 GR302	ceceo
