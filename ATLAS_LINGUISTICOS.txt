@@ -460,7 +460,6 @@ ALEA	CO609	Iznájar	37.257224	-4.3115896	Córdoba	Andalucía
 ALEA	GR200	Puebla de don Fadrique	37.9580728	-2.4443462	Granada	Andalucía
 ALEA	GR201	Huéscar	37.80977052	-2.54009537	Granada	Andalucía
 ALEA	GR202	Castril de la Peña	37.7956879	-2.7828548	Granada	Andalucía
-ALEA	GR203	Algerineja	37.7433215	-2.55073185	Granada	Andalucía
 ALEA	GR203	Galera	37.7433215	-2.55073185	Granada	Andalucía
 ALEA	GR300	Montejícar	37.57189363	-3.50494602	Granada	Andalucía
 ALEA	GR301	Colomera	37.3742622	-3.71436522	Granada	Andalucía
