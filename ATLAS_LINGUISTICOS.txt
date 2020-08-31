@@ -538,8 +538,8 @@ ALEA	J204	Villacarrillo	38.10893521	-3.08623926	Jaén	Andalucía
 ALEA	J205	Sabiote	38.06925563	-3.30737858	Jaén	Andalucía
 ALEA	J300	Canena	38.04885135	-3.48147823	Jaén	Andalucía
 ALEA	J301	Jabalquinto	38.01947513	-3.72456521	Jaén	Andalucía
+ALEA	J302	Cazalilla	37.9844142	-3.8833727	Jaén	Andalucía
 ALEA	J303	Arjonilla	37.9742431	-4.10757675	Jaén	Andalucía
-ALEA	J304	Cazalilla	37.9841708	-3.88204485	Jaén	Andalucía
 ALEA	J304	Torrequebradilla	37.9841708	-3.88204485	Jaén	Andalucía
 ALEA	J305	Fuerte del Rey	37.8739655	-3.88436808	Jaén	Andalucía
 ALEA	J306	Porcuna	37.86967238	-4.1843202	Jaén	Andalucía
